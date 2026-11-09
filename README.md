@@ -1,5 +1,7 @@
 # 霧島澪 · 设计档案（Mio Design Archive）
 
+> 在线浏览：**https://sleepyzone.online/mio-design-archive/**（GitHub Pages）　仓库：github.com/sleepy-zone/mio-design-archive
+
 > 本文是 2026-11-08 初版说明；卷数/件数会随每晚同步增长，实时数字见 [`STATS.md`](STATS.md)。
 
 把 [@Mio_2am](https://x.com/Mio_2am) 的「九宫格设计」系列整理成可检索的本地资料库：
