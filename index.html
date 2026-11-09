@@ -24,7 +24,19 @@ button{font-family:inherit;color:inherit}
 .topbar{display:flex;justify-content:space-between;align-items:center;padding:22px 40px;border-bottom:1px solid var(--line)}
 .brand{font-family:"Helvetica Neue",Arial,sans-serif;font-size:11px;letter-spacing:.24em;text-transform:uppercase}
 .brand b{color:var(--accent)}
-.topbar a{font-family:"Helvetica Neue",Arial,sans-serif;font-size:11px;letter-spacing:.14em;text-decoration:none;border-bottom:1px solid var(--ink);padding-bottom:2px}
+.topbar-right{display:flex;align-items:center;gap:24px}
+.top-x{font-family:"Helvetica Neue",Arial,sans-serif;font-size:11px;letter-spacing:.14em;text-decoration:none;border-bottom:1px solid var(--ink);padding-bottom:2px}
+.dl{position:relative}
+.dl-btn{font-family:"Helvetica Neue",Arial,sans-serif;font-size:11px;letter-spacing:.14em;text-transform:uppercase;background:none;border:0;border-bottom:1px solid var(--ink);padding:0 0 2px;cursor:pointer;display:inline-flex;align-items:center;gap:7px}
+.dl-btn .caret{font-size:9px;color:var(--accent);transition:transform .2s}
+.dl.open .dl-btn .caret{transform:rotate(180deg)}
+.dl-menu{position:absolute;right:0;top:calc(100% + 14px);width:252px;background:var(--white);border:1px solid var(--line);box-shadow:0 22px 48px rgba(27,26,23,.14);padding:10px;display:none;z-index:80}
+.dl.open .dl-menu{display:block}
+.dl-hd{font-family:"Helvetica Neue",Arial,sans-serif;font-size:8.5px;letter-spacing:.24em;color:var(--accent);text-transform:uppercase;padding:4px 8px 8px}
+.dl-menu a{display:flex;justify-content:space-between;align-items:baseline;gap:10px;padding:9px 8px;text-decoration:none;border:0;font-size:12.5px;letter-spacing:.02em;color:var(--ink)}
+.dl-menu a:hover{background:var(--paper-2)}
+.dl-menu a em{font-style:normal;font-family:"Helvetica Neue",Arial,sans-serif;font-size:9.5px;letter-spacing:.04em;color:var(--muted)}
+.dl-note{margin:8px 8px 2px;font-size:9.5px;line-height:1.7;color:var(--muted)}
 
 /* hero */
 .hero{padding:56px 40px 34px;max-width:1460px;margin:0 auto;position:relative}
@@ -146,7 +158,19 @@ main{max-width:1460px;margin:0 auto;padding:38px 40px 80px}
 <body>
 <div class="topbar">
   <div class="brand">MIO <b>/</b> DESIGN ARCHIVE <b>/</b> 2026</div>
-  <a href="https://x.com/Mio_2am" target="_blank" rel="noopener">@Mio_2am ↗</a>
+  <div class="topbar-right">
+    <div class="dl" id="dl">
+      <button class="dl-btn" id="dlBtn" aria-expanded="false" aria-controls="dlMenu">整库下载 <span class="caret">↓</span></button>
+      <div class="dl-menu" id="dlMenu" role="dialog" aria-label="整库下载">
+        <div class="dl-hd">整库打包 · 321 张图</div>
+        <a href="https://pan.baidu.com/s/1Vplb3Q-_xBgZwga1nCc0kw?pwd=c584" target="_blank" rel="noopener"><span>百度网盘</span><em>提取码 c584</em></a>
+        <a href="https://pan.quark.cn/s/ae4b422f141d?pwd=ACVp" target="_blank" rel="noopener"><span>夸克网盘</span><em>提取码 ACVp</em></a>
+        <a href="https://drive.uc.cn/s/9b911ad86d044?public=1" target="_blank" rel="noopener"><span>UC 网盘</span><em>无需提取码</em></a>
+        <p class="dl-note">32 张九宫格 + 288 张单件图 + 总览与清单，约 12 MB。单张图仍可在详情面板另存。</p>
+      </div>
+    </div>
+    <a class="top-x" href="https://x.com/Mio_2am" target="_blank" rel="noopener">@Mio_2am ↗</a>
+  </div>
 </div>
 
 <header class="hero">
@@ -280,6 +304,13 @@ document.addEventListener('keydown',e=>{
   if(e.key==='Escape'){ const iv=$('#itemview'); if(iv.classList.contains('open')) iv.classList.remove('open'); else { closeModal(); $('#lightbox').classList.remove('open'); } }
   if(e.key==='/' && document.activeElement!==$('#q')){ e.preventDefault(); $('#q').focus(); }
 });
+
+// 整库下载（网盘）
+const dl=$('#dl'), dlBtn=$('#dlBtn');
+function closeDl(){ dl.classList.remove('open'); dlBtn.setAttribute('aria-expanded','false'); }
+dlBtn.onclick=e=>{ e.stopPropagation(); const open=dl.classList.toggle('open'); dlBtn.setAttribute('aria-expanded', open?'true':'false'); };
+document.addEventListener('click',e=>{ if(!dl.contains(e.target)) closeDl(); });
+document.addEventListener('keydown',e=>{ if(e.key==='Escape') closeDl(); });
 
 const NEG = 'lowres, worst quality, low quality, bad anatomy, bad hands, extra fingers, missing fingers, text, watermark, signature, jpeg artifacts, multiple views';
 const PREFIX = 'masterpiece, best quality, very aesthetic, absurdres';
