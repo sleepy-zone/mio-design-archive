@@ -1180,6 +1180,90 @@
 
 **中文对照**：一个女孩，单人，全身，站立，米白绞花高领针织短裙，长袖，藏青格纹流苏披肩，酒红过膝靴，米白与藏青配色，温暖针织，时尚摄影，灰色背景
 
+## Mio’s Cloth Designs Vol. 09
+*连体衣 · 光泽与外套 · 2026-11-10 · [原帖](https://x.com/Mio_2am/status/2120028582923960417)*
+
+### C-09-01 · Look 01
+薄荷绿光泽连体衣，挂脖拉链款，白色侧缝滚边，白色短外套滑到肘弯，袖口绿白条纹，赤脚。
+
+```
+1girl, solo, full body, standing, mint green catsuit, glossy finish, halter neckline, front zipper, white side piping, white cropped jacket, off shoulder, sleeves at elbows, striped cuffs, barefoot, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，薄荷绿连体衣，光泽感，挂脖领，前开拉链，白色侧缝滚边，白色短款夹克，露肩，袖子滑到肘部，条纹袖口，赤脚，时尚摄影，灰色背景
+
+### C-09-02 · Look 02
+柠檬黄光泽连体衣，挂脖拉链与白色滚边，白色外套系在腰间打结、垂下一片衣摆，赤脚。
+
+```
+1girl, solo, full body, standing, yellow catsuit, glossy finish, halter neckline, front zipper, white side piping, white jacket tied around waist, knot, hanging fabric, barefoot, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黄色连体衣，光泽感，挂脖领，前开拉链，白色侧缝滚边，腰间系白色外套，打结，垂落的衣摆，赤脚，时尚摄影，灰色背景
+
+### C-09-03 · Look 03
+浅蓝光泽连体衣，挂脖拉链与白色滚边，同色外套敞开穿、袖子堆在肘部，赤脚。
+
+```
+1girl, solo, full body, standing, light blue catsuit, glossy finish, halter neckline, front zipper, white side piping, matching blue jacket, open jacket, sleeves pushed up, barefoot, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，浅蓝连体衣，光泽感，挂脖领，前开拉链，白色侧缝滚边，同色蓝外套，敞开外套，袖子卷起，赤脚，时尚摄影，灰色背景
+
+### C-09-04 · Look 04
+樱花粉光泽连体衣，金属环挂脖拉链，灰白滚边，白色短外套滑到肘弯、袖口粉白条纹，赤脚。
+
+```
+1girl, solo, full body, standing, pink catsuit, glossy finish, halter neckline, metallic ring, front zipper, grey side piping, white cropped jacket, off shoulder, sleeves at elbows, pink striped cuffs, barefoot, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，粉色连体衣，光泽感，挂脖领，金属环，前开拉链，灰色侧缝滚边，白色短款夹克，露肩，袖子滑到肘部，粉白条纹袖口，赤脚，时尚摄影，灰色背景
+
+### C-09-05 · Look 05
+黑色光泽连体衣，白色滚边，红色外套系在腰间打成蝴蝶结、衣摆垂下，赤脚。
+
+```
+1girl, solo, full body, standing, black catsuit, glossy finish, halter neckline, front zipper, white side piping, red jacket tied around waist, bow, hanging fabric, barefoot, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色连体衣，光泽感，挂脖领，前开拉链，白色侧缝滚边，腰间系红色外套，蝴蝶结，垂落的衣摆，赤脚，时尚摄影，灰色背景
+
+### C-09-06 · Look 06
+纯白光泽连体衣，黑色滚边，白色透视纱质短外套敞开穿、袖子蓬起，赤脚。
+
+```
+1girl, solo, full body, standing, white catsuit, glossy finish, halter neckline, front zipper, black side piping, sheer white jacket, puffy sleeves, open jacket, barefoot, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，白色连体衣，光泽感，挂脖领，前开拉链，黑色侧缝滚边，白色透视外套，蓬松袖，敞开外套，赤脚，时尚摄影，灰色背景
+
+### C-09-07 · Look 07
+橘橙光泽连体衣，挂脖拉链，白色滚边一路延伸到脚踝，无外套，赤脚。
+
+```
+1girl, solo, full body, standing, orange catsuit, glossy finish, halter neckline, front zipper, white side piping, sleeveless, barefoot, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，橙色连体衣，光泽感，挂脖领，前开拉链，白色侧缝滚边，无袖，赤脚，时尚摄影，灰色背景
+
+### C-09-08 · Look 08
+正红光泽连体衣，黑色滚边，黑色短外套敞开穿、内里红袖，赤脚。
+
+```
+1girl, solo, full body, standing, red catsuit, glossy finish, halter neckline, front zipper, black side piping, black cropped jacket, open jacket, red sleeves, barefoot, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，红色连体衣，光泽感，挂脖领，前开拉链，黑色侧缝滚边，黑色短款夹克，敞开外套，红色袖子，赤脚，时尚摄影，灰色背景
+
+### C-09-09 · Look 09
+薰衣草紫光泽连体衣，金属环挂脖拉链，白色滚边，白色外套系在腰间打结，赤脚。
+
+```
+1girl, solo, full body, standing, lavender catsuit, glossy finish, halter neckline, metallic ring, front zipper, white side piping, white jacket tied around waist, knot, barefoot, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，薰衣草紫连体衣，光泽感，挂脖领，金属环，前开拉链，白色侧缝滚边，腰间系白色外套，打结，赤脚，时尚摄影，灰色背景
+
 ## Mio’s Pose Designs Vol. 01
 *瑜伽 · 九种体式 · 2026-10-14 · [原帖](https://x.com/Mio_2am/status/2110142775278924257)*
 
@@ -2691,6 +2775,90 @@
 ```
 
 **中文对照**：一个女孩，单人，全身，坐椅，后仰，单臂举过头顶，屈肘，手扶头，另一臂搭在椅背，单腿向侧伸展，另一膝弯曲，看向镜头，微笑，酒红及膝靴，高跟鞋，纯色背景
+
+## Mio’s Pose Designs Vol. 19
+*瑜伽 · 伸展与扭转 · 2026-11-10 · [原帖](https://x.com/Mio_2am/status/2120028582923960417)*
+
+### P-19-01 · Pose 19-01
+宽距站立微屈膝，髋部向后推、上身前折，左手扶大腿、右手撑膝，抬头平视镜头。
+
+```
+1girl, solo, full body, standing, wide stance, knees slightly bent, hips pushed back, bent over from the waist, torso leaning forward, left hand on thigh, right hand on knee, head turned up, looking at viewer, front view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，宽距站姿，双膝微屈，髋部后推，从腰部向前弯，上身前倾，左手扶大腿，右手扶膝，抬头，看向镜头，正面视角，赤脚，纯色背景
+
+### P-19-02 · Pose 19-02
+双腿在脚踝处交叉、脚尖撑地，双臂上举屈肘抱头，髋向一侧顶出，正面平视。
+
+```
+1girl, solo, full body, standing, legs crossed, ankles crossed, tiptoe, both arms raised overhead, elbows bent, hands behind head, hip sway, looking at viewer, front view, weight on one leg, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，双腿交叉，脚踝交叉，踮脚，双臂高举过头，双肘弯曲，双手抱头，髋部摆动，看向镜头，正面视角，重心落在单腿，赤脚，纯色背景
+
+### P-19-03 · Pose 19-03
+背向镜头的宽距站姿，双手叉在腰侧，腰背反弓、髋部后送，回头从肩后看向镜头。
+
+```
+1girl, solo, full body, from behind, standing, wide stance, legs apart, hands on hips, back arched, hips pushed back, looking back over shoulder, head turned, back view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，背向，站立，宽距站姿，双腿分开，双手叉腰，背部反弓，髋部后推，回头望向肩后，头转向一侧，背面视角，赤脚，纯色背景
+
+### P-19-04 · Pose 19-04
+侧坐地面，右膝立起脚掌踩地，左腿折在身侧，左手搭膝、右手在身后撑地，正面平视。
+
+```
+1girl, solo, full body, sitting on floor, side seated, one knee raised, foot on floor, other leg folded under, torso upright, left hand on knee, one hand on floor behind, looking at viewer, front view, knees bent, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，侧坐，单膝抬起，单脚着地，另一腿折于身下，上身直立，左手扶膝，一手在身后撑地，看向镜头，正面视角，双膝弯曲，赤脚，纯色背景
+
+### P-19-05 · Pose 19-05
+跪坐在脚跟上，上身向一侧弯成弧线，右手扶在脑后、左手撑地，仰头闭眼。
+
+```
+1girl, solo, full body, kneeling, sitting on heels, side bend, torso arched, one hand behind head, other hand on floor, head tilted back, eyes closed, front view, knees bent, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，跪姿，跪坐，侧弯，上身后弓，一手扶脑后，另一手撑地，头后仰，闭眼，正面视角，双膝弯曲，赤脚，纯色背景
+
+### P-19-06 · Pose 19-06
+侧坐地面、双腿折向一侧，右膝抬起，左手扶膝，右臂伸到身后撑地，上身微拧，平视镜头。
+
+```
+1girl, solo, full body, sitting on floor, side seated, legs folded to one side, one knee raised, left hand on knee, one arm extended behind, hand on floor behind, torso twisted, looking at viewer, front view, smiling, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，侧坐，双腿折向一侧，单膝抬起，左手扶膝，单臂向后伸展，一手在身后撑地，上身拧转，看向镜头，正面视角，微笑，赤脚，纯色背景
+
+### P-19-07 · Pose 19-07
+宽距深蹲，双脚分开、全脚掌着地，上身前倾，双臂垂在两膝之间、手背靠近小腿，笑着平视。
+
+```
+1girl, solo, full body, deep squat, wide stance, feet apart, knees bent, leaning forward, both arms hanging down, hands near shins, looking at viewer, front view, smiling, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，深蹲，宽距站姿，双脚分开，双膝弯曲，前倾，双臂自然下垂，双手靠近小腿，看向镜头，正面视角，微笑，赤脚，纯色背景
+
+### P-19-08 · Pose 19-08
+前后错步站立、前膝屈曲，右臂向侧平展张开手掌，左手轻扶胸口，上身后仰，抬头平视。
+
+```
+1girl, solo, full body, standing, staggered stance, one knee bent, torso arched, one arm extended to the side, open palm, other hand on chest, looking at viewer, front view, smiling, weight on one leg, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，前后错步站姿，单膝弯曲，上身后弓，单臂向侧伸，张开手掌，另一手抚胸，看向镜头，正面视角，微笑，重心落在单腿，赤脚，纯色背景
+
+### P-19-09 · Pose 19-09
+背向镜头的宽距站立，双脚外八分开，双手抱在脑后，腰背反弓，回头从肩后看向镜头。
+
+```
+1girl, solo, full body, from behind, standing, wide stance, feet apart, both hands behind head, back arched, looking back over shoulder, head turned, back view, weight on one leg, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，背向，站立，宽距站姿，双脚分开，双手抱于脑后，背部反弓，回头望向肩后，头转向一侧，背面视角，重心落在单腿，赤脚，纯色背景
 
 ## 通用负向
 
