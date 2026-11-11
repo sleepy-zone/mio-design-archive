@@ -1,6 +1,6 @@
 # 霧島澪 · 设计档案索引
 
-> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 34 卷 / 306 件
+> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 35 卷 / 315 件
 
 ## 编号规则
 
@@ -33,7 +33,7 @@
 | Vol.08 | 2026-11-09 | 针织 · 秋冬九套 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2119666269045870930) |
 | Vol.09 | 2026-11-10 | 连体衣 · 光泽与外套 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2120028582923960417) |
 
-## 姿势 Pose（19 卷 · 171 件）
+## 姿势 Pose（20 卷 · 180 件）
 
 | 卷 | 日期 | 主题 | 九件 | 原帖 |
 |---|---|---|---|---|
@@ -56,10 +56,11 @@
 | Vol.17 | 2026-11-08 | 高尔夫 · 挥杆动作 | 1. Address · 2. Backswing · 3. Downswing · 4. Impact · 5. Follow-Through · 6. Finish · 7. Putting · 8. Line Up · 9. Ball Pickup | [链接](https://x.com/Mio_2am/status/2119245622863921252) |
 | Vol.18 | 2026-11-09 | 椅子 · 针织与长靴 | 1. Crossleg · 2. Arm Behind Head · 3. Lookback · 4. Wide Sit · 5. Leanback · 6. Turn · 7. Lounge · 8. Kick · 9. Longline | [链接](https://x.com/Mio_2am/status/2119666269045870930) |
 | Vol.19 | 2026-11-10 | 瑜伽 · 伸展与扭转 | 1. Pose 19-01 · 2. Pose 19-02 · 3. Pose 19-03 · 4. Pose 19-04 · 5. Pose 19-05 · 6. Pose 19-06 · 7. Pose 19-07 · 8. Pose 19-08 · 9. Pose 19-09 | [链接](https://x.com/Mio_2am/status/2120028582923960417) |
+| Vol.20 | 2026-11-11 | 篮球 · 九种动作 | 1. Dribble Low · 2. Drive Forward · 3. Jump Shot · 4. Layup · 5. Crossover · 6. Protect Ball · 7. Behind Back · 8. Spin Move · 9. Rebound | [链接](https://x.com/Mio_2am/status/2120333854586310827) |
 
 ## 收录状态
 
-34 卷 / 306 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
+35 卷 / 315 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
 
 ## 版权
 

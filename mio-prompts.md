@@ -2860,6 +2860,90 @@
 
 **中文对照**：一个女孩，单人，全身，背向，站立，宽距站姿，双脚分开，双手抱于脑后，背部反弓，回头望向肩后，头转向一侧，背面视角，重心落在单腿，赤脚，纯色背景
 
+## Mio’s Pose Designs Vol. 20
+*篮球 · 九种动作 · 2026-11-11 · [原帖](https://x.com/Mio_2am/status/2120333854586310827)*
+
+### P-20-01 · Dribble Low
+宽距深蹲、重心极低，左手在体前低位拍球贴地，右手五指张开垂在体侧，上身前倾、低头看球。
+
+```
+1girl, solo, full body, basketball, dribbling, low dribble, wide stance, deep squat, knees bent, low center of gravity, leaning forward, left hand on the ball, right hand open at side, head lowered, looking down at the ball, sneakers, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，篮球，运球，低位运球，宽距站姿，深蹲，双膝弯曲，重心压低，前倾，左手按在球上，右手张开垂于体侧，头压低，低头看球，运动鞋，纯色背景
+
+### P-20-02 · Drive Forward
+单腿前跨的奔跑式推进，左手在体侧运球，右臂向侧后方张开，上身前倾，视线朝前。
+
+```
+1girl, solo, full body, basketball, dribbling, drive forward, running stride, one leg forward, leaning forward, left hand on the ball, right arm extended to the side, open hand, head up, looking ahead, sneakers, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，篮球，运球，向前突破，奔跑跨步，一腿在前，前倾，左手按在球上，右臂向侧伸出，张开的手，抬头，目视前方，运动鞋，纯色背景
+
+### P-20-03 · Jump Shot
+腾空的跳投，双腿屈起收拢，双手在头顶持球、肘部弯折，腰背后仰，仰头看向球。
+
+```
+1girl, solo, full body, basketball, jump shot, airborne, mid-air, legs bent and tucked, both arms raised overhead, holding a basketball overhead, elbows bent, back arched, head tilted up, looking up, sneakers, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，篮球，跳投，腾空，半空中，双腿屈起收拢，双臂高举过头，双手持球举过头顶，双肘弯曲，背部反弓，头向上微抬，抬眼向上，运动鞋，纯色背景
+
+### P-20-04 · Layup
+单腿起跳的上篮，一臂笔直举向高处托球，另一臂向侧下张开，对侧膝盖高抬，脚尖绷直。
+
+```
+1girl, solo, full body, basketball, layup, standing on one leg, one arm raised straight up, holding a basketball up, other arm extended to the side, knee raised high, toe pointed, body stretched upward, back arched, looking up, sneakers, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，篮球，上篮，单腿站立，单臂笔直上举，单手持球上举，另一臂向侧伸，膝盖高抬，足尖绷直，身体向上拉伸，背部反弓，抬眼向上，运动鞋，纯色背景
+
+### P-20-05 · Crossover
+极宽的低蹲换手运球，上身前折几乎贴膝，双手在胯下低处控球，膝盖外张，低头看球。
+
+```
+1girl, solo, full body, basketball, crossover, dribbling, very wide stance, deep squat, torso bent forward, both hands low, hands on the ball, knees bent outward, head lowered, looking down at the ball, sneakers, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，篮球，换手运球，运球，极宽站距，深蹲，上身前倾，双手低垂，双手扶球，双膝外弯，头压低，低头看球，运动鞋，纯色背景
+
+### P-20-06 · Protect Ball
+大幅侧弓步，上身侧转、双臂把球护在胸前肩侧，重心压在后腿，回头从肩后看向前方。
+
+```
+1girl, solo, full body, basketball, protect ball, wide lunge, one leg extended to the side, torso twisted, both hands holding a basketball at chest, ball at shoulder, looking over shoulder, head turned, weight on back leg, sneakers, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，篮球，护球，大幅侧弓步，单腿向侧伸展，上身拧转，双手把球抱在胸前，球置于肩侧，望向肩后，头转向一侧，重心在后腿，运动鞋，纯色背景
+
+### P-20-07 · Behind Back
+背向镜头的行进间背后运球，左手在髋后拍球，右臂向侧张开，双腿前后交错，重心压在弓步。
+
+```
+1girl, solo, full body, basketball, from behind, back view, behind the back dribble, left hand on the ball behind hip, right arm extended to the side, open hand, legs in stride, staggered stance, weight on back leg, head turned, sneakers, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，篮球，背向，背面视角，背后运球，左手在髋后控球，右臂向侧伸出，张开的手，双腿跨步，前后错步站姿，重心在后腿，头转向一侧，运动鞋，纯色背景
+
+### P-20-08 · Spin Move
+转身过人途中，上身拧转、球在体侧低处，一腿抬起内扣、以另一腿撑地，视线随转身方向。
+
+```
+1girl, solo, full body, basketball, spin move, torso twisted, pivoting, one leg lifted and bent, standing on one leg, ball held low at side, one arm extended to the side, open hand, head turned, looking to the side, sneakers, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，篮球，转身过人，上身拧转，转身中，一腿抬起弯曲，单腿站立，球低持于体侧，单臂向侧伸，张开的手，头转向一侧，侧目，运动鞋，纯色背景
+
+### P-20-09 · Rebound
+背向镜头起跳抢板，双臂高举过头去够球，一腿后抬、以脚尖蹬地，腰背反弓，仰头看球。
+
+```
+1girl, solo, full body, basketball, from behind, back view, rebound, both arms raised overhead, hands open, reaching for the ball, ball above head, standing on tiptoe, one leg lifted behind, back arched, looking up, sneakers, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，篮球，背向，背面视角，抢篮板，双臂高举过头，双手张开，伸手够球，球在头顶上方，踮脚站立，一腿向后抬起，背部反弓，抬眼向上，运动鞋，纯色背景
+
 ## 通用负向
 
 ```
