@@ -1301,7 +1301,7 @@
 1girl, solo, full body, cobra pose, lying on stomach, prone, legs extended together, hips on floor, arms straight, hands on floor, chest lifted, shoulders down, back arched, head up, looking up, barefoot, plain background
 ```
 
-**中文对照**：一个女孩，单人，全身，眼镜蛇式，俯卧，俯卧，双腿并拢前伸，髋部贴地，双臂伸直，双手撑地，胸口上提，双肩下沉，背部反弓，抬头，抬眼向上，赤脚，纯色背景
+**中文对照**：一个女孩，单人，全身，眼镜蛇式，俯卧，面朝下，双腿并拢前伸，髋部贴地，双臂伸直，双手撑地，胸口上提，双肩下沉，背部反弓，抬头，抬眼向上，赤脚，纯色背景
 
 ### P-01-05 · Camel Pose
 双膝跪地、小腿贴地，重心在膝，髋部前顶、腰背后弯，双手向后扶住脚跟，头后仰、目视上方。
@@ -1421,7 +1421,7 @@
 1girl, solo, full body, lying on stomach, propped up on forearms, chest lifted, both legs raised, knees bent, feet crossed in air, ankles crossed, head up, looking forward, leg lift, prone, barefoot, plain background
 ```
 
-**中文对照**：一个女孩，单人，全身，俯卧，双前臂撑起，胸口上提，双腿抬起，双膝弯曲，双脚在空中交叉，脚踝交叉，抬头，目视前方，抬腿，俯卧，赤脚，纯色背景
+**中文对照**：一个女孩，单人，全身，俯卧，双前臂撑起，胸口上提，双腿抬起，双膝弯曲，双脚在空中交叉，脚踝交叉，抬头，目视前方，抬腿，面朝下，赤脚，纯色背景
 
 ### P-02-09 · Longline
 仰卧，一腿屈膝踩地、另一腿侧伸，一臂侧平伸、一臂屈肘横在胸前，重心在后背，头侧转看侧方。
@@ -2943,6 +2943,174 @@
 ```
 
 **中文对照**：一个女孩，单人，全身，篮球，背向，背面视角，抢篮板，双臂高举过头，双手张开，伸手够球，球在头顶上方，踮脚站立，一腿向后抬起，背部反弓，抬眼向上，运动鞋，纯色背景
+
+## Mio’s Pose Designs Vol. 21
+*芭蕾 · 跳跃与平衡 · 2026-11-12 · [原帖](https://x.com/Mio_2am/status/2120680779143614539)*
+
+### P-21-01 · Split Leap
+腾空劈叉跳，前腿向前伸直、后腿向后伸展，双臂向两侧平举张开，上身直立，视线朝前。
+
+```
+1girl, solo, full body, ballet, split leap, airborne, mid-air, legs split wide, front leg extended, back leg extended behind, both arms extended to the sides, arms spread, torso upright, looking ahead, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，芭蕾，空中劈叉跳，腾空，半空中，双腿大分开，前腿伸直，后腿向后伸展，双臂向两侧伸，双臂展开，上身直立，目视前方，赤脚，纯色背景
+
+### P-21-02 · Backbend Bridge
+全身后弯成桥，双手与双脚撑地、髋部高高顶起，头自然后仰，腰背完全打开。
+
+```
+1girl, solo, full body, backbend, bridge pose, wheel pose, both hands and feet on floor, hips raised high, back arched, head hanging back, arms straight, knees bent, side view, looking up, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，后弯，桥式，轮式，双手双脚撑地，髋部高顶，背部反弓，头部后垂，双臂伸直，双膝弯曲，侧视角，抬眼向上，赤脚，纯色背景
+
+### P-21-03 · Handstand
+倒立，双手撑地、双腿并拢笔直向上，脚尖绷尖，身体拉成一条直线，视线向下。
+
+```
+1girl, solo, full body, handstand, inverted, both hands on floor, legs straight up, legs together, toes pointed, body straight, arms straight, balance, looking down, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，手倒立，倒置，双手撑地，双腿笔直向上，双腿并拢，足尖绷直，身体挺直，双臂伸直，平衡，垂眼向下，赤脚，纯色背景
+
+### P-21-04 · Balance
+单脚足尖站立，后腿向后水平伸直，双臂向两侧平展，上身挺直，正视前方。
+
+```
+1girl, solo, full body, standing on one leg, on tiptoe, arabesque, back leg extended behind, leg horizontal, both arms extended to the sides, arms spread, torso upright, balance, looking ahead, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，单腿站立，足尖点地，阿拉贝斯克（后腿抬起），后腿向后伸展，后腿水平，双臂向两侧伸，双臂展开，上身直立，平衡，目视前方，赤脚，纯色背景
+
+### P-21-05 · Floor Arch
+坐地后仰、双手在身后撑直，一腿抬起屈膝、脚尖送到面前，腰背后仰打开，仰头向上。
+
+```
+1girl, solo, full body, sitting on floor, leaning back, both arms straight behind, hands on floor behind, one knee raised, foot near head, leg lifted, back arched, head tilted back, looking up, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，后仰，双臂在身后伸直，双手在身后撑地，单膝抬起，脚尖靠近头部，一腿抬起，背部反弓，头后仰，抬眼向上，赤脚，纯色背景
+
+### P-21-06 · Leg Extension
+单脚足尖站立，一腿笔直抬到身侧上方，同侧手抓住脚踝，另一臂向侧平举，上身直立。
+
+```
+1girl, solo, full body, ballet, standing on one leg, on tiptoe, one leg raised high, leg extended up, one hand holding foot, other arm extended to the side, torso upright, balance, looking ahead, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，芭蕾，单腿站立，足尖点地，单腿高抬，一腿向上伸展，一手抓住脚，另一臂向侧伸，上身直立，平衡，目视前方，赤脚，纯色背景
+
+### P-21-07 · Turn Spin
+单脚足尖立起旋转，另一腿屈膝抬起、脚贴在膝旁，双臂在胸前弯成圆形，视线朝前。
+
+```
+1girl, solo, full body, standing on one leg, on tiptoe, spinning, turn, passé, one knee raised, foot at knee, both arms bent in front, arms rounded, torso upright, ballet, looking ahead, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，单腿站立，足尖点地，旋转，转身，芭蕾吸腿，单膝抬起，脚贴膝侧，双臂在胸前弯曲，手臂成圆弧，上身直立，芭蕾，目视前方，赤脚，纯色背景
+
+### P-21-08 · Side Cartwheel
+侧手翻的倒立瞬间，双手撑地、双腿向两侧大开盘成一线，身体侧向空中，低头看地。
+
+```
+1girl, solo, full body, side cartwheel, inverted, both hands on floor, legs split wide, legs apart in the air, side view, arms straight, body sideways, back arched, looking down, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，侧手翻，倒置，双手撑地，双腿大分开，空中双腿分开，侧视角，双臂伸直，身体侧向，背部反弓，垂眼向下，赤脚，纯色背景
+
+### P-21-09 · Floor Pose
+地面大幅横叉，上身侧倾后仰，一臂高举张开手掌、另一手撑地，仰头看向上方。
+
+```
+1girl, solo, full body, sitting on floor, straddle split, side split, legs wide apart, torso side bend, one arm raised high, open hand, other hand on floor, head tilted back, looking up, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，横叉，侧劈叉，双腿大幅分开，上身侧弯，单臂高举，张开的手，另一手撑地，头后仰，抬眼向上，赤脚，纯色背景
+
+## Mio’s Pose Designs Vol. 22
+*卧姿 · 俯拍九式 · 2026-11-12 · [原帖](https://x.com/Mio_2am/status/2120711296161292711)*
+
+### P-22-01 · Drift
+仰卧平躺，双臂举过头顶、两手相扣，双腿并拢伸直、一膝微屈，面朝上方放松。
+
+```
+1girl, solo, full body, lying on back, supine, top view, viewed from above, arms raised overhead, hands together, legs extended, legs together, one knee slightly bent, face up, relaxed, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，仰卧，背部贴地，俯视视角，自上而下俯拍，双臂高举过头，双手并拢，双腿伸展，双腿并拢，单膝微屈，面朝上，放松，赤脚，纯色背景
+
+### P-22-02 · Twist
+侧卧、髋部向上拧转，一臂屈肘枕在脑后，另一臂沿体侧垂下，双腿交叠，头侧转。
+
+```
+1girl, solo, full body, lying on side, top view, viewed from above, one arm behind head, other arm along side, torso twisted, hips turned, legs crossed, knees bent, head turned, looking to the side, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，侧卧，俯视视角，自上而下俯拍，一臂枕在脑后，另一臂沿体侧，上身拧转，髋部转开，双腿交叉，双膝弯曲，头转向一侧，侧目，赤脚，纯色背景
+
+### P-22-03 · Glide
+侧卧蜷身，双膝屈起叠在前方，一手抬到脸侧、另一臂贴着身体，髋部后坐。
+
+```
+1girl, solo, full body, lying on side, top view, viewed from above, knees drawn up, legs bent, knees together, one hand near face, other arm along body, hips pushed back, curled up, head tilted, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，侧卧，俯视视角，自上而下俯拍，双膝收拢，双腿弯曲，双膝并拢，一手靠近脸部，另一臂贴身，髋部后推，蜷缩，头微侧，赤脚，纯色背景
+
+### P-22-04 · Arch
+仰卧、双手抱在脑后、肘部外张，一腿屈膝抬起跨过另一腿，髋部侧顶，上身反弓。
+
+```
+1girl, solo, full body, lying on back, top view, viewed from above, both hands behind head, elbows out, one knee raised, leg crossed over, hips tilted, back arched, legs extended, face up, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，仰卧，俯视视角，自上而下俯拍，双手抱于脑后，双肘外张，单膝抬起，一腿跨过，髋部倾斜，背部反弓，双腿伸展，面朝上，赤脚，纯色背景
+
+### P-22-05 · Reach
+俯卧，双臂笔直伸过头顶，双腿并拢伸直、脚尖绷起，身体拉成一条长线。
+
+```
+1girl, solo, full body, lying face down, prone, top view, viewed from above, both arms extended overhead, arms straight, legs together, legs straight, toes pointed, body stretched out, back arched slightly, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，俯卧，面朝下，俯视视角，自上而下俯拍，双臂伸过头顶，双臂伸直，双腿并拢，双腿伸直，足尖绷直，身体舒展，背部微微反弓，赤脚，纯色背景
+
+### P-22-06 · Curve
+侧卧，一臂屈肘举到头顶、另一手搭在腰侧，双腿屈膝交叠，髋与肩弯出相反弧线。
+
+```
+1girl, solo, full body, lying on side, top view, viewed from above, one arm overhead, elbow bent, other hand on waist, knees bent, legs crossed, hips curved, torso curved, head tilted, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，侧卧，俯视视角，自上而下俯拍，单臂举过头顶，屈肘，另一手扶腰，双膝弯曲，双腿交叉，髋部弯曲，上身侧曲，头微侧，赤脚，纯色背景
+
+### P-22-07 · Fold
+侧卧蜷成一团，双膝收到胸前，双臂环抱小腿，头缩向膝盖，全身收紧。
+
+```
+1girl, solo, full body, lying on side, top view, viewed from above, fetal position, knees to chest, curled up, arms hugging legs, hugging knees, head tucked, feet together, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，侧卧，俯视视角，自上而下俯拍，胎儿姿势，双膝收向胸口，蜷缩，双臂环抱双腿，抱膝，头缩起，双脚并拢，赤脚，纯色背景
+
+### P-22-08 · Sweep
+仰卧、上身微拧，一臂屈肘枕在头后，另一臂沿体侧伸出，双腿伸直并在脚踝处交叉，髋部侧转。
+
+```
+1girl, solo, full body, lying on back, top view, viewed from above, one arm bent behind head, other arm extended along side, torso twisted, ankle crossed, legs extended, legs together, hips turned, head turned, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，仰卧，俯视视角，自上而下俯拍，一臂屈肘枕在头后，另一臂沿体侧伸出，上身拧转，脚踝交叉，双腿伸展，双腿并拢，髋部转开，头转向一侧，赤脚，纯色背景
+
+### P-22-09 · Poise
+仰卧，双臂向两侧摊开、掌心向下，双腿伸直并在小腿处交叉，髋部微微侧转。
+
+```
+1girl, solo, full body, lying on back, top view, viewed from above, arms spread to the sides, open hands, palms down, legs extended, legs crossed at calves, hips turned, relaxed, face up, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，仰卧，俯视视角，自上而下俯拍，双臂向两侧摊开，手掌张开，掌心向下，双腿伸展，小腿交叉，髋部转开，放松，面朝上，赤脚，纯色背景
 
 ## 通用负向
 
