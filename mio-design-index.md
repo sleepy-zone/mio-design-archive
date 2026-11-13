@@ -1,6 +1,6 @@
 # 霧島澪 · 设计档案索引
 
-> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 37 卷 / 333 件
+> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 39 卷 / 351 件
 
 ## 编号规则
 
@@ -19,7 +19,7 @@
 | Vol.05 | 2026-10-23 | 马尾 · 九种扎法 | 1. Style 01 · 2. Style 02 · 3. Style 03 · 4. Style 04 · 5. Style 05 · 6. Style 06 · 7. Style 07 · 8. Style 08 · 9. Style 09 | [链接](https://x.com/Mio_2am/status/2113451634131173881) |
 | Vol.06 | 2026-10-27 | 短发 · 波波头 | 1. Center-Parted Straight Bob · 2. Airy Bangs Straight Bob · 3. Curtain Bangs Straight Bob · 4. Side-Swept Bangs Straight Bob · 5. Arched Bangs Straight Bob · 6. Curtain Bangs Wavy Bob · 7. Deep Side-Part Retro Waves · 8. Wispy Bangs Curly Bob · 9. Curly Bangs Spiral Bob | [链接](https://x.com/Mio_2am/status/2114912056038359207) |
 
-## 服装 Cloth（9 卷 · 81 件）
+## 服装 Cloth（10 卷 · 90 件）
 
 | 卷 | 日期 | 主题 | 九件 | 原帖 |
 |---|---|---|---|---|
@@ -32,8 +32,9 @@
 | Vol.07 | 2026-11-08 | 暗黑 · 机能与红黑 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2119353526455513358) |
 | Vol.08 | 2026-11-09 | 针织 · 秋冬九套 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2119666269045870930) |
 | Vol.09 | 2026-11-10 | 连体衣 · 光泽与外套 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2120028582923960417) |
+| Vol.10 | 2026-11-13 | 通勤 · 西装九套 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2121163262553465129) |
 
-## 姿势 Pose（22 卷 · 198 件）
+## 姿势 Pose（23 卷 · 207 件）
 
 | 卷 | 日期 | 主题 | 九件 | 原帖 |
 |---|---|---|---|---|
@@ -59,10 +60,11 @@
 | Vol.20 | 2026-11-11 | 篮球 · 九种动作 | 1. Dribble Low · 2. Drive Forward · 3. Jump Shot · 4. Layup · 5. Crossover · 6. Protect Ball · 7. Behind Back · 8. Spin Move · 9. Rebound | [链接](https://x.com/Mio_2am/status/2120333854586310827) |
 | Vol.21 | 2026-11-12 | 芭蕾 · 跳跃与平衡 | 1. Split Leap · 2. Backbend Bridge · 3. Handstand · 4. Balance · 5. Floor Arch · 6. Leg Extension · 7. Turn Spin · 8. Side Cartwheel · 9. Floor Pose | [链接](https://x.com/Mio_2am/status/2120680779143614539) |
 | Vol.22 | 2026-11-12 | 卧姿 · 俯拍九式 | 1. Drift · 2. Twist · 3. Glide · 4. Arch · 5. Reach · 6. Curve · 7. Fold · 8. Sweep · 9. Poise | [链接](https://x.com/Mio_2am/status/2120711296161292711) |
+| Vol.23 | 2026-11-13 | 椅子 · 通勤坐姿 | 1. Pose 23-01 · 2. Pose 23-02 · 3. Pose 23-03 · 4. Pose 23-04 · 5. Pose 23-05 · 6. Pose 23-06 · 7. Pose 23-07 · 8. Pose 23-08 · 9. Pose 23-09 | [链接](https://x.com/Mio_2am/status/2121163262553465129) |
 
 ## 收录状态
 
-37 卷 / 333 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
+39 卷 / 351 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
 
 ## 版权
 

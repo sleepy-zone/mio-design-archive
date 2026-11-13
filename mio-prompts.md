@@ -1264,6 +1264,90 @@
 
 **中文对照**：一个女孩，单人，全身，站立，薰衣草紫连体衣，光泽感，挂脖领，金属环，前开拉链，白色侧缝滚边，腰间系白色外套，打结，赤脚，时尚摄影，灰色背景
 
+## Mio’s Cloth Designs Vol. 10
+*通勤 · 西装九套 · 2026-11-13 · [原帖](https://x.com/Mio_2am/status/2121163262553465129)*
+
+### C-10-01 · Look 01
+炭灰细条纹西装外套配同色迷你裙，白衬衫敞开领口，黑皮带收腰，透黑丝袜，黑色漆皮高跟鞋，灰黑主色。
+
+```
+1girl, solo, full body, standing, charcoal pinstripe blazer, matching mini skirt, white shirt, open collar, black belt, sheer black tights, black patent pumps, monochrome palette, office lady, suit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，炭灰细条纹西装外套，同色迷你裙，白衬衫，敞开领口，黑色皮带，透黑丝袜，黑色漆皮高跟鞋，单色系，职场女性，西装套装，时尚摄影，灰色背景
+
+### C-10-02 · Look 02
+奶油白西装外套配同色迷你裙，内搭米白罗纹针织衫，黑色细皮带，裸腿，白色尖头高跟鞋，米白主色。
+
+```
+1girl, solo, full body, standing, cream blazer, matching mini skirt, ribbed knit top, black thin belt, bare legs, white pointed pumps, cream palette, office lady, suit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，奶油白西装外套，同色迷你裙，罗纹针织上衣，黑色细皮带，裸腿，白色尖头高跟鞋，奶油白配色，职场女性，西装套装，时尚摄影，灰色背景
+
+### C-10-03 · Look 03
+酒红西装外套配同色迷你裙，内搭黑色吊带，黑皮带收腰，黑色丝袜，酒红漆皮高跟鞋，酒红配黑。
+
+```
+1girl, solo, full body, standing, burgundy blazer, matching mini skirt, black camisole, black belt, sheer black tights, burgundy patent pumps, dark red palette, office lady, suit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，酒红西装外套，同色迷你裙，黑色吊带，黑色皮带，透黑丝袜，酒红漆皮高跟鞋，深红配色，职场女性，西装套装，时尚摄影，灰色背景
+
+### C-10-04 · Look 04
+象牙白蝴蝶结系带衬衫，灰色格纹迷你裙配双排金扣，黑色丝袜，黑色尖头高跟鞋，灰白主色。
+
+```
+1girl, solo, full body, standing, ivory pussy-bow blouse, bow at neck, grey plaid mini skirt, gold buttons, black tights, black pumps, grey and ivory palette, office lady, preppy, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，象牙白蝴蝶结衬衫，领口蝴蝶结，灰色格纹迷你裙，金色纽扣，黑色丝袜，黑色高跟鞋，灰白配色，职场女性，学院风，时尚摄影，灰色背景
+
+### C-10-05 · Look 05
+黑色西装外套配金色纽扣，白衬衫敞开领口，黑色迷你裙与黑皮带，裸腿，黑色绑带高跟鞋，黑白主色。
+
+```
+1girl, solo, full body, standing, black blazer, gold buttons, white shirt, black mini skirt, black belt, bare legs, black strappy heels, black and white palette, office lady, suit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色西装外套，金色纽扣，白衬衫，黑色迷你裙，黑色皮带，裸腿，黑色绑带高跟鞋，黑白配色，职场女性，西装套装，时尚摄影，灰色背景
+
+### C-10-06 · Look 06
+灰色三件套：西装外套、排扣马甲与迷你裙，内搭白衬衫，黑色丝袜，黑色高跟鞋，全灰主色。
+
+```
+1girl, solo, full body, standing, grey three-piece suit, blazer, buttoned waistcoat, matching mini skirt, white shirt, black tights, black pumps, grey palette, office lady, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，灰色三件套，西装外套，排扣马甲，同色迷你裙，白衬衫，黑色丝袜，黑色高跟鞋，灰色系，职场女性，时尚摄影，灰色背景
+
+### C-10-07 · Look 07
+藏青西装外套带白色滚边，白色内搭，藏青迷你裙侧开衩并压白边，裸腿，白色高跟鞋，藏青配白。
+
+```
+1girl, solo, full body, standing, navy blazer, white piping, white top, navy mini skirt, white trim, side slit, bare legs, white pumps, navy and white palette, office lady, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，藏青西装外套，白色滚边，白色上衣，藏青迷你裙，白色镶边，侧开衩，裸腿，白色高跟鞋，藏青白配色，职场女性，时尚摄影，灰色背景
+
+### C-10-08 · Look 08
+驼色西装外套配同色迷你裙，内搭黑色高领针织衫，黑皮带，黑色丝袜，黑色尖头短靴，驼色配黑。
+
+```
+1girl, solo, full body, standing, camel blazer, matching mini skirt, black turtleneck, black belt, black tights, black ankle boots, camel and black palette, office lady, autumn outfit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，驼色西装外套，同色迷你裙，黑色高领衫，黑色皮带，黑色丝袜，黑色短靴，驼黑配色，职场女性，秋装，时尚摄影，灰色背景
+
+### C-10-09 · Look 09
+黑白千鸟格西装外套配同花百褶迷你裙，内搭黑色衬衫，黑色丝袜，黑色高跟鞋，黑白主色。
+
+```
+1girl, solo, full body, standing, houndstooth blazer, matching pleated mini skirt, black shirt, black tights, black pumps, black and white palette, office lady, suit, long sleeves, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，千鸟格西装外套，同花百褶迷你裙，黑色衬衫，黑色丝袜，黑色高跟鞋，黑白配色，职场女性，西装套装，长袖，时尚摄影，灰色背景
+
 ## Mio’s Pose Designs Vol. 01
 *瑜伽 · 九种体式 · 2026-10-14 · [原帖](https://x.com/Mio_2am/status/2110142775278924257)*
 
@@ -3111,6 +3195,90 @@
 ```
 
 **中文对照**：一个女孩，单人，全身，仰卧，俯视视角，自上而下俯拍，双臂向两侧摊开，手掌张开，掌心向下，双腿伸展，小腿交叉，髋部转开，放松，面朝上，赤脚，纯色背景
+
+## Mio’s Pose Designs Vol. 23
+*椅子 · 通勤坐姿 · 2026-11-13 · [原帖](https://x.com/Mio_2am/status/2121163262553465129)*
+
+### P-23-01 · Pose 23-01
+端坐办公椅，双腿膝上交叉、两脚并落，双手交握搭在膝头，上身微前倾，含笑平视镜头。
+
+```
+1girl, solo, full body, sitting on chair, office chair, legs crossed, knee over knee, hands clasped on knee, leaning forward slightly, torso upright, looking at viewer, smiling, feet together, black ankle boots, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐椅，办公椅，双腿交叉，膝上叠腿，双手交握搭膝，微微前倾，上身直立，看向镜头，微笑，双脚并拢，黑色短靴，纯色背景
+
+### P-23-02 · Pose 23-02
+坐在椅上，双腿膝上交叉，一肘搭扶手、手托下巴，另一手扶膝，上身直立，含笑平视。
+
+```
+1girl, solo, full body, sitting on chair, legs crossed, knee over knee, elbow on armrest, chin on hand, other hand on knee, torso upright, looking at viewer, smiling, high heels, black ankle boots, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐椅，双腿交叉，膝上叠腿，手肘搭在扶手，手托下巴，另一手扶膝，上身直立，看向镜头，微笑，高跟鞋，黑色短靴，纯色背景
+
+### P-23-03 · Pose 23-03
+侧身坐椅、背脊挺直，双腿膝上交叉，一手搭在大腿，回头越过肩膀看向镜头。
+
+```
+1girl, solo, full body, sitting on chair, side view, legs crossed, back straight, one hand on thigh, looking at viewer, smiling, torso upright, knees together, high heels, black ankle boots, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐椅，侧视角，双腿交叉，背部挺直，一手放大腿，看向镜头，微笑，上身直立，双膝并拢，高跟鞋，黑色短靴，纯色背景
+
+### P-23-04 · Pose 23-04
+坐椅、双腿大幅分开，上身前倾，双手交握垂在两膝之间，抬头含笑看镜头。
+
+```
+1girl, solo, full body, sitting on chair, legs apart, knees bent, leaning forward, hands clasped between knees, torso bent forward, looking at viewer, smiling, knees apart, hands clasped, high heels, black ankle boots, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐椅，双腿分开，双膝弯曲，前倾，双手交握垂于两膝间，上身前倾，看向镜头，微笑，双膝分开，双手交握，高跟鞋，黑色短靴，纯色背景
+
+### P-23-05 · Pose 23-05
+反坐椅子、双腿分开跨在两侧，双臂交叠搭在椅背、下巴搁在手背，含笑平视。
+
+```
+1girl, solo, full body, sitting backwards on chair, straddling chair, arms crossed on chair back, chin on arms, legs apart, feet on floor, looking at viewer, smiling, knees apart, feet apart, high heels, black ankle boots, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，反坐椅子，跨坐椅子，双臂交叠搭椅背，下巴搁在手背，双腿分开，双脚着地，看向镜头，微笑，双膝分开，双脚分开，高跟鞋，黑色短靴，纯色背景
+
+### P-23-06 · Pose 23-06
+靠坐在办公椅上向后仰，双腿交叠向前伸，双臂搭在两侧扶手，头轻抬看向镜头。
+
+```
+1girl, solo, full body, sitting on chair, leaning back, reclining, legs crossed, one arm on armrest, other arm on armrest, head tilted back, looking at viewer, smiling, legs extended forward, high heels, black ankle boots, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐椅，后仰，斜倚，双腿交叉，一臂搭扶手，另一臂搭扶手，头后仰，看向镜头，微笑，双腿向前伸，高跟鞋，黑色短靴，纯色背景
+
+### P-23-07 · Pose 23-07
+坐在椅上、身体略侧转，双腿膝上交叉，一手搭扶手、一手扶在大腿，含笑平视。
+
+```
+1girl, solo, full body, sitting on chair, legs crossed, one hand on armrest, other hand on thigh, body turned slightly, knees together, looking at viewer, smiling, knee over knee, high heels, black ankle boots, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐椅，双腿交叉，一手搭扶手，另一手放大腿，身体略侧转，双膝并拢，看向镜头，微笑，膝上叠腿，高跟鞋，黑色短靴，纯色背景
+
+### P-23-08 · Pose 23-08
+窝在扶手椅里，双腿交叠，一臂搭在椅背、一手扶在座面，上身微靠后，含笑平视。
+
+```
+1girl, solo, full body, sitting in armchair, legs crossed, one arm over chair back, other hand on chair seat, leaning back slightly, looking at viewer, smiling, knee over knee, high heels, legs extended, black ankle boots, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐扶手椅，双腿交叉，单臂搭在椅背，另一手撑椅面，微微后仰，看向镜头，微笑，膝上叠腿，高跟鞋，双腿伸展，黑色短靴，纯色背景
+
+### P-23-09 · Pose 23-09
+坐在办公椅上，双腿膝上交叉，一肘搭扶手、手背托腮，另一手搭在大腿，含笑看镜头。
+
+```
+1girl, solo, full body, sitting on chair, office chair, legs crossed, one hand at chin, other hand on thigh, elbow on armrest, looking at viewer, smiling, knee over knee, high heels, black ankle boots, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐椅，办公椅，双腿交叉，一手托腮，另一手放大腿，手肘搭在扶手，看向镜头，微笑，膝上叠腿，高跟鞋，黑色短靴，纯色背景
 
 ## 通用负向
 
