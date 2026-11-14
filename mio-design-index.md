@@ -1,6 +1,6 @@
 # 霧島澪 · 设计档案索引
 
-> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 39 卷 / 351 件
+> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 40 卷 / 360 件
 
 ## 编号规则
 
@@ -19,7 +19,7 @@
 | Vol.05 | 2026-10-23 | 马尾 · 九种扎法 | 1. Style 01 · 2. Style 02 · 3. Style 03 · 4. Style 04 · 5. Style 05 · 6. Style 06 · 7. Style 07 · 8. Style 08 · 9. Style 09 | [链接](https://x.com/Mio_2am/status/2113451634131173881) |
 | Vol.06 | 2026-10-27 | 短发 · 波波头 | 1. Center-Parted Straight Bob · 2. Airy Bangs Straight Bob · 3. Curtain Bangs Straight Bob · 4. Side-Swept Bangs Straight Bob · 5. Arched Bangs Straight Bob · 6. Curtain Bangs Wavy Bob · 7. Deep Side-Part Retro Waves · 8. Wispy Bangs Curly Bob · 9. Curly Bangs Spiral Bob | [链接](https://x.com/Mio_2am/status/2114912056038359207) |
 
-## 服装 Cloth（10 卷 · 90 件）
+## 服装 Cloth（11 卷 · 99 件）
 
 | 卷 | 日期 | 主题 | 九件 | 原帖 |
 |---|---|---|---|---|
@@ -33,6 +33,7 @@
 | Vol.08 | 2026-11-09 | 针织 · 秋冬九套 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2119666269045870930) |
 | Vol.09 | 2026-11-10 | 连体衣 · 光泽与外套 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2120028582923960417) |
 | Vol.10 | 2026-11-13 | 通勤 · 西装九套 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2121163262553465129) |
+| Vol.11 | 2026-11-14 | 职场 · 半裙与裤装 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2121465224553488828) |
 
 ## 姿势 Pose（23 卷 · 207 件）
 
@@ -64,7 +65,7 @@
 
 ## 收录状态
 
-39 卷 / 351 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
+40 卷 / 360 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
 
 ## 版权
 

@@ -1348,6 +1348,90 @@
 
 **中文对照**：一个女孩，单人，全身，站立，千鸟格西装外套，同花百褶迷你裙，黑色衬衫，黑色丝袜，黑色高跟鞋，黑白配色，职场女性，西装套装，长袖，时尚摄影，灰色背景
 
+## Mio’s Cloth Designs Vol. 11
+*职场 · 半裙与裤装 · 2026-11-14 · [原帖](https://x.com/Mio_2am/status/2121465224553488828)*
+
+### C-11-01 · Look 01
+黑色宽肩西装外套，白色系领结衬衫，黑色迷你裙配金色纽扣与黑皮带，裸腿，黑色绑带高跟鞋，黑色手袋。
+
+```
+1girl, solo, full body, standing, black oversized blazer, white blouse, bow at neck, black mini skirt, gold buttons, black belt, bare legs, black ankle-strap heels, black leather handbag, office lady, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色宽肩西装外套，白色衬衫，领口蝴蝶结，黑色迷你裙，金色纽扣，黑色皮带，裸腿，黑色绑带高跟鞋，黑色皮手袋，职场女性，时尚摄影，灰色背景
+
+### C-11-02 · Look 02
+米色西装外套，豆沙粉缎面蝴蝶结衬衫，米色裹身中长裙压排扣，黑皮带，裸腿，米色尖头高跟鞋，米色手袋。
+
+```
+1girl, solo, full body, standing, beige blazer, dusty rose satin blouse, bow at neck, beige wrap midi skirt, button detail, black slim belt, bare legs, beige pointed heels, cream handbag, office lady, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，米色西装外套，豆沙粉缎面衬衫，领口蝴蝶结，米色裹身中长裙，排扣细节，黑色细皮带，裸腿，米色尖头高跟鞋，奶油色手袋，职场女性，时尚摄影，灰色背景
+
+### C-11-03 · Look 03
+白色衬衫配荷叶立领，藏青细条纹迷你裙压金色纽扣，裸腿，黑色绑带高跟鞋，黑色手袋，白藏青主色。
+
+```
+1girl, solo, full body, standing, white shirt, ruffled collar, navy pinstripe mini skirt, gold buttons, bare legs, black ankle-strap heels, black handbag, navy and white palette, office lady, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，白衬衫，荷叶领，藏青细条纹迷你裙，金色纽扣，裸腿，黑色绑带高跟鞋，黑色手袋，藏青白配色，职场女性，时尚摄影，灰色背景
+
+### C-11-04 · Look 04
+黑色高领无袖上衣，米白高腰阔腿长裤配黑皮带，奶油色西装外套搭在臂弯，黑色尖头高跟鞋，黑色手袋。
+
+```
+1girl, solo, full body, standing, black high-neck sleeveless top, ivory high-waisted wide-leg trousers, black belt, belted waist, cream blazer draped over arm, black pointed heels, black leather handbag, ivory and black palette, office lady, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色高领无袖上衣，米白高腰阔腿长裤，黑色皮带，腰带收腰，奶油色西装外套搭在臂弯，黑色尖头高跟鞋，黑色皮手袋，米白配黑，职场女性，时尚摄影，灰色背景
+
+### C-11-05 · Look 05
+浅蓝衬衫卷起袖口，藏青铅笔中长裙侧开衩压排扣，黑皮带收腰，裸腿，黑色绑带高跟鞋，黑色手袋。
+
+```
+1girl, solo, full body, standing, light blue shirt, rolled sleeves, navy pencil midi skirt, side slit, button detail, black belt, bare legs, black ankle-strap heels, black handbag, office lady, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，浅蓝衬衫，卷起袖口，藏青铅笔中长裙，侧开衩，排扣细节，黑色皮带，裸腿，黑色绑带高跟鞋，黑色手袋，职场女性，时尚摄影，灰色背景
+
+### C-11-06 · Look 06
+黑色露肩束腰短外套，领口细颈圈，黑色迷你裙与黑皮带，透黑丝袜，黑色高跟鞋，黑色手袋，全黑造型。
+
+```
+1girl, solo, full body, standing, black off-shoulder peplum jacket, long sleeves, choker, black mini skirt, black belt, sheer black tights, black heels, black handbag, all black palette, office lady, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色露肩束腰短外套，长袖，颈圈，黑色迷你裙，黑色皮带，透黑丝袜，黑色高跟鞋，黑色手袋，全黑配色，职场女性，时尚摄影，灰色背景
+
+### C-11-07 · Look 07
+白色系蝴蝶结衬衫，灰色格纹百褶迷你裙，灰色西装外套搭在臂上，裸腿，白色尖头高跟鞋，黑色手袋。
+
+```
+1girl, solo, full body, standing, white blouse, bow at neck, grey plaid pleated mini skirt, grey jacket over arm, bare legs, white pointed heels, black handbag, grey and white palette, office lady, preppy, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，白色衬衫，领口蝴蝶结，灰色格纹百褶迷你裙，灰色西装外套搭在臂上，裸腿，白色尖头高跟鞋，黑色手袋，灰白配色，职场女性，学院风，时尚摄影，灰色背景
+
+### C-11-08 · Look 08
+米色罗纹针织高领连身短裙，细皮带收腰，同色西装外套搭在臂弯，裸腿，米色高跟鞋，奶油色手袋。
+
+```
+1girl, solo, full body, standing, beige ribbed knit dress, turtleneck, long sleeves, slim belt, beige blazer over arm, bare legs, beige heels, cream handbag, beige palette, office lady, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，米色罗纹针织连身裙，高领，长袖，细皮带，米色西装外套搭在臂弯，裸腿，米色高跟鞋，奶油色手袋，米色系，职场女性，时尚摄影，灰色背景
+
+### C-11-09 · Look 09
+黑色透视纱质高领衬衫系蝴蝶结，酒红皮迷你裙压排扣与系带，透黑丝袜，酒红尖头高跟鞋，黑色手袋。
+
+```
+1girl, solo, full body, standing, black sheer blouse, high neck, bow at neck, sheer long sleeves, burgundy leather mini skirt, lace-up detail, black sheer tights, burgundy pointed heels, black handbag, burgundy and black palette, office lady, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色透视衬衫，高领口，领口蝴蝶结，透视长袖，酒红皮迷你裙，系带细节，透黑丝袜，酒红尖头高跟鞋，黑色手袋，酒红配黑，职场女性，时尚摄影，灰色背景
+
 ## Mio’s Pose Designs Vol. 01
 *瑜伽 · 九种体式 · 2026-10-14 · [原帖](https://x.com/Mio_2am/status/2110142775278924257)*
 

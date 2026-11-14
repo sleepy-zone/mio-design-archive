@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "source": "https://x.com/Mio_2am",
  "volumes": [
   {
@@ -1984,6 +1984,134 @@
    ],
    "count": 9,
    "note": "九套职场西装：条纹、奶油、酒红、格纹、灰三件套、藏青滚边与千鸟格，同版型换配色与鞋袜。"
+  },
+  {
+   "slug": "cloth-11",
+   "series": "cloth",
+   "vol": 11,
+   "date": "2026-11-14",
+   "url": "https://x.com/Mio_2am/status/2121465224553488828",
+   "theme_zh": "职场 · 半裙与裤装",
+   "theme_en": "Office looks II",
+   "tags": [
+    "职场",
+    "通勤",
+    "手袋"
+   ],
+   "title": "Mio’s Cloth Designs Vol. 11",
+   "sheet": "assets/sheets/cloth-11.jpg",
+   "items": [
+    {
+     "no": 1,
+     "id": "C-11-01",
+     "name": "Look 01",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-11-01.jpg",
+     "zh": "黑色宽肩西装外套，白色系领结衬衫，黑色迷你裙配金色纽扣与黑皮带，裸腿，黑色绑带高跟鞋，黑色手袋。",
+     "prompt": "1girl, solo, full body, standing, black oversized blazer, white blouse, bow at neck, black mini skirt, gold buttons, black belt, bare legs, black ankle-strap heels, black leather handbag, office lady, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，黑色宽肩西装外套，白色衬衫，领口蝴蝶结，黑色迷你裙，金色纽扣，黑色皮带，裸腿，黑色绑带高跟鞋，黑色皮手袋，职场女性，时尚摄影，灰色背景"
+    },
+    {
+     "no": 2,
+     "id": "C-11-02",
+     "name": "Look 02",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-11-02.jpg",
+     "prompt_zh": "一个女孩，单人，全身，站立，米色西装外套，豆沙粉缎面衬衫，领口蝴蝶结，米色裹身中长裙，排扣细节，黑色细皮带，裸腿，米色尖头高跟鞋，奶油色手袋，职场女性，时尚摄影，灰色背景",
+     "zh": "米色西装外套，豆沙粉缎面蝴蝶结衬衫，米色裹身中长裙压排扣，黑皮带，裸腿，米色尖头高跟鞋，米色手袋。",
+     "prompt": "1girl, solo, full body, standing, beige blazer, dusty rose satin blouse, bow at neck, beige wrap midi skirt, button detail, black slim belt, bare legs, beige pointed heels, cream handbag, office lady, fashion photo, grey background"
+    },
+    {
+     "no": 3,
+     "id": "C-11-03",
+     "name": "Look 03",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-11-03.jpg",
+     "zh": "白色衬衫配荷叶立领，藏青细条纹迷你裙压金色纽扣，裸腿，黑色绑带高跟鞋，黑色手袋，白藏青主色。",
+     "prompt": "1girl, solo, full body, standing, white shirt, ruffled collar, navy pinstripe mini skirt, gold buttons, bare legs, black ankle-strap heels, black handbag, navy and white palette, office lady, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，白衬衫，荷叶领，藏青细条纹迷你裙，金色纽扣，裸腿，黑色绑带高跟鞋，黑色手袋，藏青白配色，职场女性，时尚摄影，灰色背景"
+    },
+    {
+     "no": 4,
+     "id": "C-11-04",
+     "name": "Look 04",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-11-04.jpg",
+     "zh": "黑色高领无袖上衣，米白高腰阔腿长裤配黑皮带，奶油色西装外套搭在臂弯，黑色尖头高跟鞋，黑色手袋。",
+     "prompt": "1girl, solo, full body, standing, black high-neck sleeveless top, ivory high-waisted wide-leg trousers, black belt, belted waist, cream blazer draped over arm, black pointed heels, black leather handbag, ivory and black palette, office lady, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，黑色高领无袖上衣，米白高腰阔腿长裤，黑色皮带，腰带收腰，奶油色西装外套搭在臂弯，黑色尖头高跟鞋，黑色皮手袋，米白配黑，职场女性，时尚摄影，灰色背景"
+    },
+    {
+     "no": 5,
+     "id": "C-11-05",
+     "name": "Look 05",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-11-05.jpg",
+     "zh": "浅蓝衬衫卷起袖口，藏青铅笔中长裙侧开衩压排扣，黑皮带收腰，裸腿，黑色绑带高跟鞋，黑色手袋。",
+     "prompt": "1girl, solo, full body, standing, light blue shirt, rolled sleeves, navy pencil midi skirt, side slit, button detail, black belt, bare legs, black ankle-strap heels, black handbag, office lady, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，浅蓝衬衫，卷起袖口，藏青铅笔中长裙，侧开衩，排扣细节，黑色皮带，裸腿，黑色绑带高跟鞋，黑色手袋，职场女性，时尚摄影，灰色背景"
+    },
+    {
+     "no": 6,
+     "id": "C-11-06",
+     "name": "Look 06",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-11-06.jpg",
+     "zh": "黑色露肩束腰短外套，领口细颈圈，黑色迷你裙与黑皮带，透黑丝袜，黑色高跟鞋，黑色手袋，全黑造型。",
+     "prompt": "1girl, solo, full body, standing, black off-shoulder peplum jacket, long sleeves, choker, black mini skirt, black belt, sheer black tights, black heels, black handbag, all black palette, office lady, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，黑色露肩束腰短外套，长袖，颈圈，黑色迷你裙，黑色皮带，透黑丝袜，黑色高跟鞋，黑色手袋，全黑配色，职场女性，时尚摄影，灰色背景"
+    },
+    {
+     "no": 7,
+     "id": "C-11-07",
+     "name": "Look 07",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-11-07.jpg",
+     "zh": "白色系蝴蝶结衬衫，灰色格纹百褶迷你裙，灰色西装外套搭在臂上，裸腿，白色尖头高跟鞋，黑色手袋。",
+     "prompt": "1girl, solo, full body, standing, white blouse, bow at neck, grey plaid pleated mini skirt, grey jacket over arm, bare legs, white pointed heels, black handbag, grey and white palette, office lady, preppy, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，白色衬衫，领口蝴蝶结，灰色格纹百褶迷你裙，灰色西装外套搭在臂上，裸腿，白色尖头高跟鞋，黑色手袋，灰白配色，职场女性，学院风，时尚摄影，灰色背景"
+    },
+    {
+     "no": 8,
+     "id": "C-11-08",
+     "name": "Look 08",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-11-08.jpg",
+     "zh": "米色罗纹针织高领连身短裙，细皮带收腰，同色西装外套搭在臂弯，裸腿，米色高跟鞋，奶油色手袋。",
+     "prompt": "1girl, solo, full body, standing, beige ribbed knit dress, turtleneck, long sleeves, slim belt, beige blazer over arm, bare legs, beige heels, cream handbag, beige palette, office lady, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，米色罗纹针织连身裙，高领，长袖，细皮带，米色西装外套搭在臂弯，裸腿，米色高跟鞋，奶油色手袋，米色系，职场女性，时尚摄影，灰色背景"
+    },
+    {
+     "no": 9,
+     "id": "C-11-09",
+     "name": "Look 09",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-11-09.jpg",
+     "zh": "黑色透视纱质高领衬衫系蝴蝶结，酒红皮迷你裙压排扣与系带，透黑丝袜，酒红尖头高跟鞋，黑色手袋。",
+     "prompt": "1girl, solo, full body, standing, black sheer blouse, high neck, bow at neck, sheer long sleeves, burgundy leather mini skirt, lace-up detail, black sheer tights, burgundy pointed heels, black handbag, burgundy and black palette, office lady, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，黑色透视衬衫，高领口，领口蝴蝶结，透视长袖，酒红皮迷你裙，系带细节，透黑丝袜，酒红尖头高跟鞋，黑色手袋，酒红配黑，职场女性，时尚摄影，灰色背景"
+    }
+   ],
+   "count": 9,
+   "note": "九套带包的通勤造型：宽肩西装、束腰短外套、缎面衬衫、阔腿裤、铅笔裙、针织连身裙与皮裙。"
   },
   {
    "slug": "pose-01",
