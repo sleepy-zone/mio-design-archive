@@ -150,7 +150,26 @@ cd dist && zip -rq -X mio-images-$(date +%Y%m%d).zip mio-images
 | `make_overview.py` | 生成 32 卷封面总览 |
 | `export_images.py` | 把全部图片导出到 `dist/mio-images/`（扁平目录 + MANIFEST.csv），便于打包分发 |
 
-## 9. 版权与边界
+## 8.5 站点文件（`library/`）
+
+| 文件 | 作用 |
+|---|---|
+| `index.html` | 画廊单页（分卷 / 平铺 / 搜索 / 详情面板 / 复制） |
+| `config.js` | 埋点配置（Clarity 项目 ID），见第 9 节 |
+| `assets/analytics.js` | 埋点加载层（char-db-cn 同款） |
+| `data.js` / `tagdict.js` | 前端数据与标签中英对照 |
+| `assets/sheets/` `assets/tiles/` | 九宫格封面与单件切图 |
+
+## 9. 埋点（Microsoft Clarity）
+
+和 `char-db-cn`、`ai-ref-library-cn` 保持一致，共用同一个 Clarity 项目（站点按 URL 过滤，报表里按 `mio-design-archive` 过滤即可只看本站）。
+
+- `config.js`：`window.ANALYTICS = { providers: [{ provider: "clarity", id: "r1wmvdsf4a" }] }`；留空 `providers: []` 即关闭上报。
+- `assets/analytics.js`：char-db-cn 同款轻量埋点层（原样拷贝），加载 Clarity、暴露 `window.track(name, params)`，并始终把最近 200 条写进 `window.__trackLog`。
+- 已埋事件（命名沿用 char-db-cn 那套）：`volume_open`、`item_open`、`copy`（`prompt` / `prompt_full` / `prompt_zh` / `negative`）、`filter`、`search`、`view`、`ref_click`（X 原帖）。
+- 调试：控制台执行 `window.__trackDebug = true` 后刷新，能在 console 看到每条事件；`window.__trackLog` 里始终保留最近 200 条。
+
+## 10. 版权与边界
 
 设计、图片和角色版权归 **@Mio_2am（霧島澪 / Kirishima Mio）** 所有。
 作者在原帖中明确表示可以引用、可以作为姿势/搭配参考；本资料库只是本地个人参考整理，
