@@ -695,7 +695,7 @@
 1girl, solo, full body, standing, white sports bra, black leggings, high waist, white side stripes, black track jacket, off shoulder, slim fit, white sneakers, athleisure outfit, fashion photo, studio background
 ```
 
-**中文对照**：一个女孩，单人，全身，站立，白色运动内衣，黑色打底裤，高腰，白色侧条纹，黑色运动夹克，露肩，修身版型，白色球鞋，运动休闲装，时尚摄影，影棚背景
+**中文对照**：一个女孩，单人，全身，站立，白色运动内衣，黑色打底裤，高腰，白色侧条，黑色运动夹克，露肩，修身版型，白色球鞋，运动休闲装，时尚摄影，影棚背景
 
 ### C-03-03 · Look 03
 黑白灰主色，黑色运动内衣配灰色白条纹阔腿卫裤，黑色连帽夹克滑落肩臂，黑白拼色运动鞋。
@@ -704,7 +704,7 @@
 1girl, solo, full body, standing, black sports bra, gray wide leg sweatpants, white side stripes, drawstring waist, black hooded jacket, zip front, relaxed fit, black and white sneakers, athleisure outfit, fashion photo, studio background
 ```
 
-**中文对照**：一个女孩，单人，全身，站立，黑色运动内衣，灰色阔腿运动裤，白色侧条纹，抽绳腰部，黑色连帽夹克，前拉链，宽松版型，黑白球鞋，运动休闲装，时尚摄影，影棚背景
+**中文对照**：一个女孩，单人，全身，站立，黑色运动内衣，灰色阔腿运动裤，白色侧条，抽绳腰部，黑色连帽夹克，前拉链，宽松版型，黑白球鞋，运动休闲装，时尚摄影，影棚背景
 
 ### C-03-04 · Look 04
 黑白灰主色，白色短袖露脐T恤配黑色白边抽绳短裤，白袜与白色运动鞋，无外套，简洁利落。
@@ -731,7 +731,7 @@
 1girl, solo, full body, standing, white cropped tank top, cropped fit, black wide leg track pants, white side stripes, drawstring waist, black track jacket, relaxed fit, white sneakers, athleisure outfit, fashion photo, studio background
 ```
 
-**中文对照**：一个女孩，单人，全身，站立，白色短款背心，短款版型，黑色阔腿运动裤，白色侧条纹，抽绳腰部，黑色运动夹克，宽松版型，白色球鞋，运动休闲装，时尚摄影，影棚背景
+**中文对照**：一个女孩，单人，全身，站立，白色短款背心，短款版型，黑色阔腿运动裤，白色侧条，抽绳腰部，黑色运动夹克，宽松版型，白色球鞋，运动休闲装，时尚摄影，影棚背景
 
 ### C-03-07 · Look 07
 黑白灰主色，黑色白条纹紧身背心配黑色运动短裤，黑色外套系在腰间，白色运动鞋与白袜。
@@ -740,7 +740,7 @@
 1girl, solo, full body, standing, black racerback crop tank, cropped fit, white side stripes, black shorts, black jacket tied around waist, tied sleeves, drawstring waist, white sneakers, athleisure outfit, fashion photo, studio background
 ```
 
-**中文对照**：一个女孩，单人，全身，站立，黑色工字背短背心，短款版型，白色侧条纹，黑色短裤，腰间系黑色外套，系袖，抽绳腰部，白色球鞋，运动休闲装，时尚摄影，影棚背景
+**中文对照**：一个女孩，单人，全身，站立，黑色工字背短背心，短款版型，白色侧条，黑色短裤，腰间系黑色外套，系袖，抽绳腰部，白色球鞋，运动休闲装，时尚摄影，影棚背景
 
 ### C-03-08 · Look 08
 黑白灰主色，白色运动内衣配黑色紧身短裤，白色宽松夹克滑落肩臂，短款叠穿，白色运动鞋。
@@ -1001,7 +1001,7 @@
 1girl, solo, full body, standing, black mesh long-sleeve crop top, pink trim, black sports bra, black shorts, pink side stripes, black knee pads, black and pink sneakers, volleyball uniform, athletic fit, black and pink palette, fashion photo, grey background
 ```
 
-**中文对照**：一个女孩，单人，全身，站立，黑色网纱长袖短上衣，粉色镶边，黑色运动内衣，黑色短裤，粉色侧条纹，黑色护膝，黑粉球鞋，排球服，修身运动版，黑粉配色，时尚摄影，灰色背景
+**中文对照**：一个女孩，单人，全身，站立，黑色网纱长袖短上衣，粉色滚边，黑色运动内衣，黑色短裤，粉色侧条纹，黑色护膝，黑粉球鞋，排球服，修身运动版，黑粉配色，时尚摄影，灰色背景
 
 ### C-06-09 · Look 09
 外穿白色立领拉链球衣，藏青肩片与蓝色斜纹，藏青短裤，黑色护膝，白蓝球鞋，白藏青主色。
@@ -1431,6 +1431,174 @@
 ```
 
 **中文对照**：一个女孩，单人，全身，站立，黑色透视衬衫，高领口，领口蝴蝶结，透视长袖，酒红皮迷你裙，系带细节，透黑丝袜，酒红尖头高跟鞋，黑色手袋，酒红配黑，职场女性，时尚摄影，灰色背景
+
+## Mio’s Cloth Designs Vol. 12
+*运动 · 露肩T恤九套 · 2026-11-15 · [原帖](https://x.com/Mio_2am/status/2121814213505265933)*
+
+### C-12-01 · Look 01
+粉色露肩T恤在腰侧打结，白色短裤配粉色滚边，白色短袜与粉色运动鞋，粉色腕带，露出腰腹。
+
+```
+1girl, solo, full body, standing, pink off-shoulder tee, knotted hem, white shorts, pink trim, white socks, pink sneakers, pink wristband, bare midriff, athleisure, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，粉色露肩T恤，下摆打结，白色短裤，粉色滚边，白色短袜，粉色运动鞋，粉色腕带，露出腰腹，运动休闲，时尚摄影，灰色背景
+
+### C-12-02 · Look 02
+荧光绿露肩宽松T恤，薰衣草紫阔腿工装裤压白色侧条，白色运动鞋与白色腕带，绿紫主色。
+
+```
+1girl, solo, full body, standing, lime green off-shoulder tee, loose fit, lavender wide-leg cargo pants, white side stripes, white sneakers, white wristband, athleisure, short sleeves, high waist, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，荧光绿露肩T恤，宽松版型，薰衣草紫阔腿工装裤，白色侧条，白色球鞋，白色腕带，运动休闲，短袖，高腰，时尚摄影，灰色背景
+
+### C-12-03 · Look 03
+白色系带短款T恤、薄纱质地，内搭白色抹胸，浅蓝喇叭瑜伽裤，白色运动鞋，蓝色发圈。
+
+```
+1girl, solo, full body, standing, white tied crop tee, sheer fabric, white bralette, light blue flared leggings, white sneakers, blue scrunchie, athleisure, cropped, high waist, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，白色系带短款T恤，薄纱质地，白色抹胸，浅蓝喇叭瑜伽裤，白色球鞋，蓝色发圈，运动休闲，短款，高腰，时尚摄影，灰色背景
+
+### C-12-04 · Look 04
+薰衣草紫露肩T恤印白色五角星，灰色短裤，白色堆堆袜，紫色运动鞋，紫灰主色。
+
+```
+1girl, solo, full body, standing, lavender off-shoulder tee, star print, grey shorts, white slouch socks, purple sneakers, purple wristband, athleisure, short sleeves, high waist, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，薰衣草紫露肩T恤，五角星印花，灰色短裤，白色堆堆袜，紫色运动鞋，紫色腕带，运动休闲，短袖，高腰，时尚摄影，灰色背景
+
+### C-12-05 · Look 05
+柠檬黄短款T恤在腰前打结、露出腰腹，橄榄绿阔腿工装裤压白色滚边，白色运动鞋，黄绿主色。
+
+```
+1girl, solo, full body, standing, yellow cropped tee, knotted hem, bare midriff, olive green wide-leg cargo pants, white piping, white sneakers, athleisure, cropped, high waist, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黄色短款T恤，下摆打结，露出腰腹，橄榄绿阔腿工装裤，白色滚边，白色球鞋，运动休闲，短款，高腰，时尚摄影，灰色背景
+
+### C-12-06 · Look 06
+薄荷蓝露肩T恤，粉色短裤，白色短袜压粉色条纹，粉白拼色运动鞋，粉蓝主色。
+
+```
+1girl, solo, full body, standing, mint blue off-shoulder tee, pink shorts, white socks, pink stripes, pink and white sneakers, pink wristband, athleisure, short sleeves, high waist, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，薄荷蓝露肩T恤，粉色短裤，白色短袜，粉色条纹，粉白拼色运动鞋，粉色腕带，运动休闲，短袖，高腰，时尚摄影，灰色背景
+
+### C-12-07 · Look 07
+白色露肩T恤在腰侧打结，薰衣草紫紧身裤压白色侧线，白色运动鞋，紫色发圈，白紫主色。
+
+```
+1girl, solo, full body, standing, white off-shoulder tee, knotted hem, lavender leggings, white piping, white sneakers, purple scrunchie, athleisure, cropped, high waist, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，白色露肩T恤，下摆打结，薰衣草紫紧身裤，白色滚边，白色球鞋，紫色发圈，运动休闲，短款，高腰，时尚摄影，灰色背景
+
+### C-12-08 · Look 08
+蜜桃橘露肩T恤带破洞肌理，白色阔腿工装裤拼橘色侧片，白色运动鞋，橘白主色。
+
+```
+1girl, solo, full body, standing, peach off-shoulder tee, distressed, white wide-leg cargo pants, orange side panels, white sneakers, athleisure, short sleeves, high waist, short sleeves, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，蜜桃橘露肩T恤，破洞做旧，白色阔腿工装裤，橘色侧片，白色球鞋，运动休闲，短袖，高腰，短袖，时尚摄影，灰色背景
+
+### C-12-09 · Look 09
+浅蓝短款T恤，藏青短裤配侧边系带，白色堆堆袜，蓝色运动鞋，藏青腕带，蓝白主色。
+
+```
+1girl, solo, full body, standing, light blue cropped tee, navy shorts, lace-up ties, white slouch socks, blue sneakers, navy wristband, bare midriff, athleisure, cropped, high waist, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，浅蓝短款T恤，藏青短裤，侧边系带，白色堆堆袜，蓝色运动鞋，藏青腕带，露出腰腹，运动休闲，短款，高腰，时尚摄影，灰色背景
+
+## Mio’s Cloth Designs Vol. 13
+*波西米亚 · 刺绣与喇叭裤 · 2026-11-15 · [原帖](https://x.com/Mio_2am/status/2121898416188125599)*
+
+### C-13-01 · Look 01
+奶油色挂脖上衣，一侧垂薄纱刺绣披巾，刺绣喇叭牛仔裤配铜色流苏腰带，金耳坠与串珠手镯。
+
+```
+1girl, solo, full body, standing, cream halter top, sheer embroidered wrap, embroidered flared jeans, bronze tassel belt, pendant necklace, flat sandals, bohemian, layered bracelets, gold earrings, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，奶油色挂脖上衣，薄纱刺绣披巾，刺绣喇叭牛仔裤，铜色流苏腰带，吊坠项链，平底凉鞋，波西米亚，串珠手镯，金耳坠，时尚摄影，灰色背景
+
+### C-13-02 · Look 02
+酒红刺绣挂脖上衣，金属币腰带与宽棕腰带，深色喇叭牛仔裤，配吊坠项链与金耳坠。
+
+```
+1girl, solo, full body, standing, burgundy embroidered halter top, coin belt, dark flared jeans, gold earrings, layered bracelets, flat sandals, bohemian, pendant necklace, wide brown belt, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，酒红刺绣挂脖上衣，金属币腰带，深色喇叭牛仔裤，金耳坠，串珠手镯，平底凉鞋，波西米亚，吊坠项链，宽棕色腰带，时尚摄影，灰色背景
+
+### C-13-03 · Look 03
+奶油色蕾丝挂脖上衣，浅蓝阔腿牛仔裤，奶油色流苏披肩搭肩，配金耳坠、吊坠与串珠手镯。
+
+```
+1girl, solo, full body, standing, cream lace halter top, light wash wide-leg jeans, cream fringe shawl, brown belt, flat sandals, bohemian, layered bracelets, gold earrings, pendant necklace, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，奶油色蕾丝挂脖上衣，浅蓝阔腿牛仔裤，奶油色流苏披肩，棕色腰带，平底凉鞋，波西米亚，串珠手镯，金耳坠，吊坠项链，时尚摄影，灰色背景
+
+### C-13-04 · Look 04
+白色无袖刺绣长上衣，下摆微喇压织带，米白刺绣阔腿长裤，金耳坠配吊坠项链与平底凉鞋。
+
+```
+1girl, solo, full body, standing, white embroidered tunic, sleeveless, peplum hem, cream embroidered wide-leg pants, gold earrings, layered bracelets, flat sandals, bohemian, pendant necklace, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，白色刺绣长上衣，无袖，微喇下摆，米白刺绣阔腿长裤，金耳坠，串珠手镯，平底凉鞋，波西米亚，吊坠项链，时尚摄影，灰色背景
+
+### C-13-05 · Look 05
+藕紫挂脖上衣，一侧垂荷叶边不对称裙片，金属币腰带，蓝色喇叭牛仔裤，配吊坠与串珠手镯。
+
+```
+1girl, solo, full body, standing, mauve halter top, ruffled panel, asymmetric hem, coin belt, blue flared jeans, layered bracelets, flat sandals, bohemian, pendant necklace, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，藕紫挂脖上衣，荷叶边裙片，不对称下摆，金属币腰带，蓝色喇叭牛仔裤，串珠手镯，平底凉鞋，波西米亚，吊坠项链，时尚摄影，灰色背景
+
+### C-13-06 · Look 06
+米色刺绣挂脖上衣，下摆缀流苏，深色刺绣阔腿牛仔裤，配金耳坠、吊坠项链与棕色腰带。
+
+```
+1girl, solo, full body, standing, beige embroidered halter top, fringe hem, dark embroidered wide-leg jeans, layered bracelets, flat sandals, bohemian, gold earrings, pendant necklace, brown belt, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，米色刺绣挂脖上衣，流苏下摆，深色刺绣阔腿牛仔裤，串珠手镯，平底凉鞋，波西米亚，金耳坠，吊坠项链，棕色腰带，时尚摄影，灰色背景
+
+### C-13-07 · Look 07
+棕色钩针编织挂脖上衣，拼布喇叭牛仔裤缀麂皮流苏，宽棕色腰带，配金耳坠与串珠手镯。
+
+```
+1girl, solo, full body, standing, brown crochet halter top, patchwork flared jeans, suede fringe, wide brown belt, gold earrings, flat sandals, bohemian, pendant necklace, layered bracelets, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，棕色钩针挂脖上衣，拼布喇叭牛仔裤，麂皮流苏，宽棕色腰带，金耳坠，平底凉鞋，波西米亚，吊坠项链，串珠手镯，时尚摄影，灰色背景
+
+### C-13-08 · Look 08
+花卉刺绣挂脖上衣，下摆微喇，橄榄绿布腰带打结垂下，深色刺绣喇叭牛仔裤，配金耳坠。
+
+```
+1girl, solo, full body, standing, embroidered halter top, floral embroidery, peplum hem, olive sash belt, dark embroidered flared jeans, layered bracelets, flat sandals, bohemian, gold earrings, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，刺绣挂脖上衣，花卉刺绣，微喇下摆，橄榄绿布腰带，深色刺绣喇叭牛仔裤，串珠手镯，平底凉鞋，波西米亚，金耳坠，时尚摄影，灰色背景
+
+### C-13-09 · Look 09
+奶油色挂脖上衣，紫调花纹披肩搭肩，深色刺绣阔腿牛仔裤，棕腰带，配金耳坠与串珠手镯。
+
+```
+1girl, solo, full body, standing, cream halter top, patterned shawl over shoulders, dark embroidered wide-leg jeans, brown belt, pendant necklace, flat sandals, bohemian, gold earrings, layered bracelets, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，奶油色挂脖上衣，花纹披肩搭肩，深色刺绣阔腿牛仔裤，棕色腰带，吊坠项链，平底凉鞋，波西米亚，金耳坠，串珠手镯，时尚摄影，灰色背景
 
 ## Mio’s Pose Designs Vol. 01
 *瑜伽 · 九种体式 · 2026-10-14 · [原帖](https://x.com/Mio_2am/status/2110142775278924257)*
@@ -3363,6 +3531,90 @@
 ```
 
 **中文对照**：一个女孩，单人，全身，坐椅，办公椅，双腿交叉，一手托腮，另一手放大腿，手肘搭在扶手，看向镜头，微笑，膝上叠腿，高跟鞋，黑色短靴，纯色背景
+
+## Mio’s Pose Designs Vol. 24
+*坐姿 · 地面扭转 · 2026-11-14 · [原帖](https://x.com/Mio_2am/status/2121752199621669187)*
+
+### P-24-01 · Side Lean
+侧坐地面、双腿折向一侧，一臂屈肘举过头顶，另一手在身后撑地，上身旁弯成弧线，侧头看。
+
+```
+1girl, solo, full body, sitting on floor, legs folded to one side, side bend, one arm over head, elbow bent, other hand on floor behind, torso leaning sideways, head tilted, looking to the side, relaxed, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，双腿折向一侧，侧弯，单臂举过头顶，屈肘，另一手在身后撑地，上身侧倾，头微侧，侧目，放松，赤脚，纯色背景
+
+### P-24-02 · Kneel Turn
+跪坐在脚跟上，上身后拧，一臂高举张开手掌，另一手撑地，回头从肩后看向侧方。
+
+```
+1girl, solo, full body, kneeling, sitting on heels, torso twisted, one arm raised high, open hand, other hand on floor, looking back over shoulder, head turned, back arched, shoulders turned, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，跪姿，跪坐，上身拧转，单臂高举，张开的手，另一手撑地，回头望向肩后，头转向一侧，背部反弓，肩部转动，赤脚，纯色背景
+
+### P-24-03 · Sit Arch
+坐地屈膝、双脚踏地，上身后仰、双手在身后撑直，腰背反弓、胸口上提，头后仰向上。
+
+```
+1girl, solo, full body, sitting on floor, knees bent, feet on floor, leaning back, both arms straight behind, back arched, head tilted back, chest lifted, looking up, relaxed, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，双膝弯曲，双脚着地，后仰，双臂在身后伸直，背部反弓，头后仰，胸口上提，抬眼向上，放松，赤脚，纯色背景
+
+### P-24-04 · SS Sit
+盘腿坐地、一腿压在另一腿上，一臂横搭在膝头，另一手撑地，上身略前倾，正面平视。
+
+```
+1girl, solo, full body, sitting on floor, legs crossed, cross-legged, one arm across knee, other hand on floor, leaning forward slightly, torso upright, looking at viewer, feet together, relaxed, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，双腿交叉，盘腿，单臂横搭膝上，另一手撑地，微微前倾，上身直立，看向镜头，双脚并拢，放松，赤脚，纯色背景
+
+### P-24-05 · Leg Extend
+坐地，一腿向侧伸直、另一膝抬起，一臂向侧平展张开，另一手撑地，上身微拧看向镜头。
+
+```
+1girl, solo, full body, sitting on floor, one leg extended to the side, other knee raised, one arm extended to the side, other hand on floor, torso twisted, looking at viewer, torso upright, legs extended, relaxed, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，单腿向侧伸展，另一膝抬起，单臂向侧伸，另一手撑地，上身拧转，看向镜头，上身直立，双腿伸展，放松，赤脚，纯色背景
+
+### P-24-06 · Twist Sit
+侧坐地面、双腿折向一侧，背向镜头拧身，双手撑地，回头从肩后看，腰背微弓。
+
+```
+1girl, solo, full body, sitting on floor, legs folded to one side, from behind, torso twisted, looking back over shoulder, both hands on floor, head turned, back arched, shoulders turned, relaxed, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，双腿折向一侧，背向，上身拧转，回头望向肩后，双手撑地，头转向一侧，背部反弓，肩部转动，放松，赤脚，纯色背景
+
+### P-24-07 · Side Reach
+坐地、双腿收在体侧，一臂向斜上方伸展张开，另一手撑地，上身边拉伸边侧弯，仰头看向手。
+
+```
+1girl, solo, full body, sitting on floor, legs folded, side bend, one arm raised diagonally, open hand, other hand on floor, torso stretched, head tilted, looking up, relaxed, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，双腿折叠，侧弯，单臂斜向上举，张开的手，另一手撑地，上身边伸展，头微侧，抬眼向上，放松，赤脚，纯色背景
+
+### P-24-08 · Back Pose
+背向镜头跪坐，双手撑在身前地面，腰背下压成弧，头低下，胸口贴近地面。
+
+```
+1girl, solo, full body, kneeling, sitting on heels, from behind, both hands on floor in front, back arched, head lowered, chest down, back view, hips raised, relaxed, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，跪姿，跪坐，背向，双手撑在身前地面，背部反弓，头压低，胸口下压，背面视角，髋部抬起，放松，赤脚，纯色背景
+
+### P-24-09 · Recline Kick
+侧躺在地、以前臂撑起上身，一腿笔直向上踢起、另一腿贴地伸展，上身拧转看向镜头。
+
+```
+1girl, solo, full body, reclining, lying on hip, propped on forearm, one leg kicked straight up, other leg extended on floor, torso twisted, one arm on floor, looking at viewer, side view, head turned, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，斜倚，侧躺，前臂撑起，一腿笔直上踢，另一腿贴地伸展，上身拧转，单臂撑地，看向镜头，侧视角，头转向一侧，赤脚，纯色背景
 
 ## 通用负向
 
