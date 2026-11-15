@@ -381,6 +381,9 @@ function lightbox(src,alt){
   const lb=$('#lightbox'); $('img',lb).src=src; $('img',lb).alt=alt||''; lb.classList.add('open');
 }
 $('#lightbox').onclick=()=>$('#lightbox').classList.remove('open');
+document.querySelectorAll('.top-x, .dl-menu a').forEach(a=>a.addEventListener('click',()=>{
+  trackEvent('ref_click', {source: a.classList.contains('top-x') ? 'x_profile' : 'download'});
+}));
 
 $('#seg').addEventListener('click',e=>{
   const b=e.target.closest('button'); if(!b) return;
