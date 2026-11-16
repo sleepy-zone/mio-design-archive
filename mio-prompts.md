@@ -508,6 +508,90 @@
 
 **中文对照**：一个女孩，单人，肖像，上半身，齐下巴波波头，卷波波头，卷刘海，深棕发，螺旋卷，紧密卷，蓬松发，短发，浓密卷发，环绕脸型，白色背景
 
+## Mio’s Hairstyle Designs Vol. 07
+*盘发 · 九种扎法 · 2026-11-16 · [原帖](https://x.com/Mio_2am/status/2122099324154724796)*
+
+### H-07-01 · Side-Swept High Bun
+深棕长发在头顶盘成高发髻，侧分长刘海斜扫过额角，一侧垂下一缕长卷，发面光亮。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, high bun, side-swept bangs, side part, long side lock, wavy hair, glossy hair, elegant updo, clean sides, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，高发髻，侧扫刘海，侧分，垂落的长发缕，波浪发，亮泽发，优雅盘发，两侧梳净，白色背景
+
+### H-07-02 · FF Ruru-style Fantasy Updo
+深棕发做半盘编发，两侧垂下细辫，头顶插金蓝色仙侠发簪与垂穗，侧分刘海斜掩额头。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, half updo, twin braids, wavy hair, fantasy hairpins, gold hairpin, tassels, side-swept bangs, hair ornament, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，半盘发，双辫，波浪发，仙侠发簪，金色发簪，垂穗，侧扫刘海，发饰，白色背景
+
+### H-07-03 · Sleek Ballerina Bun
+同一头深棕长发全部向后梳紧，在头顶偏高处盘成光滑圆髻，无刘海，发鬓服帖。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, sleek hair, high bun, ballerina bun, no bangs, smooth sides, glossy hair, clean look, elegant updo, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，服帖顺发，高发髻，芭蕾丸子头，无刘海，鬓角平整，亮泽发，利落造型，优雅盘发，白色背景
+
+### H-07-04 · Low Chignon
+深棕发在颈后低低盘成圆髻，侧分的长刘海从额前垂下、贴着脸颊微卷，发尾松散。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, low bun, chignon, side part, parted bangs, face-framing strands, loose tendrils, wavy hair, elegant updo, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，低发髻，发髻，侧分，分缝刘海，修饰脸型发丝，松散碎发，波浪发，优雅盘发，白色背景
+
+### H-07-05 · French Twist
+深棕发在脑后竖向拧卷成法式发卷，侧分刘海向上翻起、覆住半边额头，两侧留碎发。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, french twist, updo, side part, side-swept bangs, voluminous bangs, loose tendrils, glossy hair, elegant updo, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，法式发卷，盘发，侧分，侧扫刘海，蓬松刘海，松散碎发，亮泽发，优雅盘发，白色背景
+
+### H-07-06 · Messy Top Knot
+深棕长发在头顶随手盘成蓬松的丸子头，鬓角散出多缕细碎卷发，整体松弛带纹理。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, messy bun, top knot, loose tendrils, wavy hair, textured hair, casual updo, face-framing strands, glossy hair, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，蓬松丸子头，顶髻，松散碎发，波浪发，有纹理的头发，随性盘发，修饰脸型发丝，亮泽发，白色背景
+
+### H-07-07 · Braided Crown Updo
+深棕发沿头顶编一圈辫子做成编发皇冠，后侧收成盘发，两侧垂少量松散卷发。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, braided crown, braids, updo, wavy hair, loose tendrils, face-framing strands, glossy hair, elegant updo, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，编发皇冠，辫子，盘发，波浪发，松散碎发，修饰脸型发丝，亮泽发，优雅盘发，白色背景
+
+### H-07-08 · Side Chignon
+深棕发在耳后一侧盘成低发髻，侧分长刘海从额前斜扫、发尾微卷搭在肩侧。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, side chignon, low bun, side part, side-swept bangs, face-framing strands, wavy hair, glossy hair, elegant updo, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，侧发髻，低发髻，侧分，侧扫刘海，修饰脸型发丝，波浪发，亮泽发，优雅盘发，白色背景
+
+### H-07-09 · Bangs High Bun
+深棕长发在头顶盘成高发髻，前额留齐整的厚刘海盖住额头，两侧各垂一缕长发。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, high bun, blunt bangs, full bangs, long side locks, glossy hair, elegant updo, face-framing strands, smooth hair, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，高发髻，齐刘海，厚刘海，两侧长发缕，亮泽发，优雅盘发，修饰脸型发丝，顺滑发，白色背景
+
 ## Mio’s Cloth Designs Vol. 01
 *万圣节 · 红黑哥特 · 2026-10-29 · [原帖](https://x.com/Mio_2am/status/2115641495802024391)*
 
