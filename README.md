@@ -128,7 +128,7 @@ cd dist && zip -rq -X mio-images-$(date +%Y%m%d).zip mio-images
 已配置定时任务：每天 **20:00（Asia/Shanghai）** 运行一次增量同步。
 
 - 手动执行：`bash sync.sh --days 3`
-- 逻辑：搜索最近 3 天的 `from:Mio_2am Vol` → 对比 `state.json` → 下载新九宫格 → OCR → 追加 `volumes.json` → 重建画廊/CSV/统计
+- 逻辑：抓作者最近 3 天带图的原创帖 → 按 `Vol. N` 或系列关键词判卷号 → 校验「正方形 + 有编号格 + 不与已有图重复」→ 下载新九宫格 → OCR → 追加 `volumes.json` → 重建画廊/CSV/统计
 - 新卷的 `pending.json` 会列出待补文案；定时任务里的 agent 按 `SYNC.md` 逐格补中文说明与提示词
 - 实时统计见 [`STATS.md`](STATS.md)
 
