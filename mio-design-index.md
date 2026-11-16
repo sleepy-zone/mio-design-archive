@@ -1,6 +1,6 @@
 # 霧島澪 · 设计档案索引
 
-> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 43 卷 / 387 件
+> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 44 卷 / 403 件
 
 ## 编号规则
 
@@ -10,7 +10,7 @@
 
 ## 发型 Hair（6 卷 · 54 件）
 
-| 卷 | 日期 | 主题 | 九件 | 原帖 |
+| 卷 | 日期 | 主题 | 单件 | 原帖 |
 |---|---|---|---|---|
 | Vol.01 | 2026-10-11 | 长发 · 刘海与层次 | 1. Light Bangs Straight · 2. Side Part Waves · 3. Blunt Bangs Straight · 4. Center Part Layers · 5. Half-Up Waves · 6. Slicked-Back Straight · 7. Side Part Straight · 8. Soft Wavy Bangs / Gentle Waves · 9. Inward Layers | [链接](https://x.com/Mio_2am/status/2109109503312703511) |
 | Vol.02 | 2026-10-12 | 短发 · 波波与狼尾 | 1. Pixie Cut · 2. Hime Bob · 3. Asymmetrical Bob · 4. Fluffy Wavy Bob · 5. Side-Parted Tucked Bob · 6. Layered Soft Wolf / Shag · 7. Wind-Swept Layered Short Bob · 8. Slicked-Back Short Hair · 9. Spiky Short Hair | [链接](https://x.com/Mio_2am/status/2109493680876982708) |
@@ -21,7 +21,7 @@
 
 ## 服装 Cloth（13 卷 · 117 件）
 
-| 卷 | 日期 | 主题 | 九件 | 原帖 |
+| 卷 | 日期 | 主题 | 单件 | 原帖 |
 |---|---|---|---|---|
 | Vol.01 | 2026-10-29 | 万圣节 · 红黑哥特 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2115641495802024391) |
 | Vol.02 | 2026-10-30 | 万圣节 · 橙绿黑 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2115900629835227337) |
@@ -37,9 +37,9 @@
 | Vol.12 | 2026-11-15 | 运动 · 露肩T恤九套 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2121814213505265933) |
 | Vol.13 | 2026-11-15 | 波西米亚 · 刺绣与喇叭裤 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2121898416188125599) |
 
-## 姿势 Pose（24 卷 · 216 件）
+## 姿势 Pose（25 卷 · 232 件）
 
-| 卷 | 日期 | 主题 | 九件 | 原帖 |
+| 卷 | 日期 | 主题 | 单件 | 原帖 |
 |---|---|---|---|---|
 | Vol.01 | 2026-10-14 | 瑜伽 · 九种体式 | 1. Tree Pose · 2. Triangle Pose · 3. Warrior II · 4. Cobra Pose · 5. Camel Pose · 6. Pigeon Pose · 7. Dancer Pose · 8. Bridge Pose · 9. Seated Forward Bend | [链接](https://x.com/Mio_2am/status/2110142775278924257) |
 | Vol.02 | 2026-10-21 | 综合 · 站蹲卧 | 1. Lean · 2. Sway · 3. Lookback · 4. Crouch · 5. Backbend · 6. Turn · 7. Sidepose · 8. Leg Lift · 9. Longline | [链接](https://x.com/Mio_2am/status/2112865605410021378) |
@@ -65,10 +65,11 @@
 | Vol.22 | 2026-11-12 | 卧姿 · 俯拍九式 | 1. Drift · 2. Twist · 3. Glide · 4. Arch · 5. Reach · 6. Curve · 7. Fold · 8. Sweep · 9. Poise | [链接](https://x.com/Mio_2am/status/2120711296161292711) |
 | Vol.23 | 2026-11-13 | 椅子 · 通勤坐姿 | 1. Pose 23-01 · 2. Pose 23-02 · 3. Pose 23-03 · 4. Pose 23-04 · 5. Pose 23-05 · 6. Pose 23-06 · 7. Pose 23-07 · 8. Pose 23-08 · 9. Pose 23-09 | [链接](https://x.com/Mio_2am/status/2121163262553465129) |
 | Vol.24 | 2026-11-14 | 坐姿 · 地面扭转 | 1. Side Lean · 2. Kneel Turn · 3. Sit Arch · 4. SS Sit · 5. Leg Extend · 6. Twist Sit · 7. Side Reach · 8. Back Pose · 9. Recline Kick | [链接](https://x.com/Mio_2am/status/2121752199621669187) |
+| Vol.25 | 2026-11-16 | 网球 · 十六个动作 | 1. Ready Stance · 2. Toss · 3. Serve · 4. Forehand · 5. Backhand · 6. Volley · 7. Lob · 8. Smash · 9. Run · 10. Slide · 11. Reach · 12. Follow Through · 13. Pick Up · 14. Sit Rest · 15. Kneel Rest · 16. Celebrate | [链接](https://x.com/Mio_2am/status/2122159771587625470) |
 
 ## 收录状态
 
-43 卷 / 387 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
+44 卷 / 403 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
 
 ## 版权
 

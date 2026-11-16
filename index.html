@@ -253,7 +253,7 @@ function renderVolumes(vols){
         <h3>${v.title.replace('Mio’s','')}</h3>
         <div class="en">${v.theme_en} · ${v.theme_zh}</div>
         <p class="note">${v.note||''}</p>
-        <div class="foot"><span>${v.date}</span><span>查看 9 件 →</span></div>
+        <div class="foot"><span>${v.date}</span><span>查看 ${v.count} 件 →</span></div>
       </div>`;
     const open=()=>openModal(v);
     c.onclick=open;

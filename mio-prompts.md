@@ -2990,7 +2990,7 @@
 1girl, solo, full body, standing, follow through, body rotated toward target, weight on front foot, back heel high, golf club swung across shoulder, both arms folded across chest, hips facing target, chest lifted, head turned, watching the ball, golf shoes, plain background
 ```
 
-**中文对照**：一个女孩，单人，全身，站立，收杆，身体转向目标，重心在前脚，后脚跟抬高，球杆横过肩，双臂抱在胸前，髋部朝向目标，胸口上提，头转向一侧，注视球，高尔夫球鞋，纯色背景
+**中文对照**：一个女孩，单人，全身，站立，随挥，身体转向目标，重心在前脚，后脚跟抬高，球杆横过肩，双臂抱在胸前，髋部朝向目标，胸口上提，头转向一侧，注视球，高尔夫球鞋，纯色背景
 
 ### P-17-06 · Finish
 完成转体，球杆绕到背后搭肩，单腿站稳，后脚脚尖点地，胸口打开，转头望向球飞出的方向。
@@ -3615,6 +3615,153 @@
 ```
 
 **中文对照**：一个女孩，单人，全身，斜倚，侧躺，前臂撑起，一腿笔直上踢，另一腿贴地伸展，上身拧转，单臂撑地，看向镜头，侧视角，头转向一侧，赤脚，纯色背景
+
+## Mio’s Pose Designs Vol. 25
+*网球 · 十六个动作 · 2026-11-16 · [原帖](https://x.com/Mio_2am/status/2122159771587625470)*
+
+### P-25-01 · Ready Stance
+宽距深蹲的接球准备姿，屈膝压低重心，双手在身前握拍、拍面朝上，视线朝前。
+
+```
+1girl, solo, full body, tennis, ready stance, wide stance, knees bent, low center of gravity, holding a tennis racket with both hands, racket in front, looking ahead, athletic pose, front view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，准备姿势，宽距站姿，双膝弯曲，重心压低，双手握网球拍，球拍在身前，目视前方，运动姿态，正面视角，赤脚，纯色背景
+
+### P-25-02 · Toss
+站立向上抛球，一臂高举张开手掌，另一手垂着球拍，上身后仰，仰头看球。
+
+```
+1girl, solo, full body, tennis, toss, one arm raised high, open hand, other hand holding a tennis racket at side, looking up, back arched slightly, standing on tiptoe, athletic pose, front view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，抛球，单臂高举，张开的手，另一手垂着网球拍，抬眼向上，背部微微反弓，踮脚站立，运动姿态，正面视角，赤脚，纯色背景
+
+### P-25-03 · Serve
+发球姿，球拍举到脑后、另一臂向上伸展，腰背后仰，踮脚蓄力，仰头看向上方。
+
+```
+1girl, solo, full body, tennis, serve, racket raised behind head, other arm extended up, back arched, on tiptoe, looking up, torso twisted, athletic pose, side view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，发球，球拍举到脑后，另一臂向上伸展，背部反弓，足尖点地，抬眼向上，上身拧转，运动姿态，侧视角，赤脚，纯色背景
+
+### P-25-04 · Forehand
+向侧跨步的正手挥拍，前腿深屈、后腿蹬直，双臂在身前横向挥拍，上身随拍转动。
+
+```
+1girl, solo, full body, tennis, forehand, side lunge, front knee bent, torso twisted, both hands on racket, racket swung across body, other arm extended behind, athletic pose, side view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，正手，侧弓步，前膝弯曲，上身拧转，双手握拍，球拍横扫身前，另一臂向后伸展，运动姿态，侧视角，赤脚，纯色背景
+
+### P-25-05 · Backhand
+大幅弓步的双手反拍，球拍挥到体侧后方，肩线随挥拍打开，重心压在前腿。
+
+```
+1girl, solo, full body, tennis, backhand, wide lunge, both hands holding racket, racket swung to the side, shoulders turned, torso twisted, weight on front leg, athletic pose, side view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，反手，大幅侧弓步，双手握拍，球拍挥向体侧，肩部转动，上身拧转，重心在前腿，运动姿态，侧视角，赤脚，纯色背景
+
+### P-25-06 · Volley
+上网截击，向侧跨步、屈膝压低，球拍向前伸出停在胸前高度，另一臂向后张开。
+
+```
+1girl, solo, full body, tennis, volley, side lunge, knees bent, racket extended forward, arm straight, other arm extended back, tennis ball in front, athletic pose, front view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，截击，侧弓步，双膝弯曲，球拍向前伸出，手臂伸直，另一臂向后张开，网球在身前，运动姿态，正面视角，赤脚，纯色背景
+
+### P-25-07 · Lob
+跑动中挑高球，一臂把球拍高高举过头顶，另一臂向前伸平，身体向上舒展、仰头。
+
+```
+1girl, solo, full body, tennis, lob, running stride, one arm raised overhead, racket raised high, other arm extended forward, body stretched upward, looking up, athletic pose, side view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，挑高球，奔跑跨步，单臂举过头顶，球拍高举，另一臂向前伸，身体向上拉伸，抬眼向上，运动姿态，侧视角，赤脚，纯色背景
+
+### P-25-08 · Smash
+腾空扣杀，双腿屈起收拢，球拍在头顶向后引、另一臂向侧张开，上身反弓向下压。
+
+```
+1girl, solo, full body, tennis, smash, airborne, legs bent and tucked, racket overhead, arm raised high, other arm extended to the side, back arched, looking up, athletic pose, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，扣杀，腾空，双腿屈起收拢，球拍举过头顶，手臂高举，另一臂向侧伸，背部反弓，抬眼向上，运动姿态，赤脚，纯色背景
+
+### P-25-09 · Run
+持拍跑动，前腿跨出、后腿蹬地，一臂屈肘在体侧，另一手垂着球拍，上身前倾。
+
+```
+1girl, solo, full body, tennis, running, running stride, leaning forward, one arm bent at side, other hand holding racket down, head up, looking ahead, athletic pose, side view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，跑动，奔跑跨步，前倾，一臂屈肘在体侧，另一手垂着球拍，抬头，目视前方，运动姿态，侧视角，赤脚，纯色背景
+
+### P-25-10 · Slide
+侧向滑步救球，一腿深屈、另一腿向侧伸开，球拍低垂接近地面，另一臂向外平衡。
+
+```
+1girl, solo, full body, tennis, slide, deep side lunge, one leg extended to the side, racket lowered near floor, other arm extended for balance, torso upright, looking at the ball, athletic pose, side view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，滑步，深侧弓步，单腿向侧伸展，球拍低垂近地，另一臂张开保持平衡，上身直立，看向球，运动姿态，侧视角，赤脚，纯色背景
+
+### P-25-11 · Reach
+全力伸展的单手救球，前腿弓步压到底，持拍臂笔直向前探出，另一臂向后拉平。
+
+```
+1girl, solo, full body, tennis, reach, deep lunge, racket arm extended forward, arm straight, other arm extended behind, torso stretched forward, looking at the ball, athletic pose, side view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，伸展救球，深弓步，持拍臂向前伸出，手臂伸直，另一臂向后伸展，上身前探，看向球，运动姿态，侧视角，赤脚，纯色背景
+
+### P-25-12 · Follow Through
+背向镜头的挥拍收势，球拍顺势收过对侧肩，双臂交叉在肩前，身体拧转、单脚支撑。
+
+```
+1girl, solo, full body, tennis, from behind, follow through, racket over shoulder, both arms crossed at shoulder, torso twisted, standing on one leg, other leg crossed behind, athletic pose, back view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，背向，随挥，球拍收过肩，双臂交叠在肩前，上身拧转，单腿站立，另一腿在身后交叉，运动姿态，背面视角，赤脚，纯色背景
+
+### P-25-13 · Pick Up
+弯腰捡球，上身前折、双膝微屈，一手指尖伸向地面上的球，另一手垂着球拍。
+
+```
+1girl, solo, full body, tennis, bent over from the waist, knees slightly bent, one hand reaching down, fingers toward the ball, other hand holding racket down, tennis ball on floor, athletic pose, side view, arm extended, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，从腰部向前弯，双膝微屈，一手向下探，手指伸向球，另一手垂着球拍，网球在地面，运动姿态，侧视角，手臂伸展，赤脚，纯色背景
+
+### P-25-14 · Sit Rest
+坐在方块上休息，双腿交叠，一手举水瓶喝水，另一手搭在方块上，球拍靠在方块旁。
+
+```
+1girl, solo, full body, tennis, sitting on cube, legs crossed, knee over knee, drinking from a water bottle, one hand on the cube, tennis racket leaning beside, resting, athletic pose, front view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，坐方块，双腿交叉，膝上叠腿，举水瓶喝水，一手搭在方块上，球拍靠在旁边，休息，运动姿态，正面视角，赤脚，纯色背景
+
+### P-25-15 · Kneel Rest
+跪姿休息，双手抱在脑后、肘部外张，上身挺直、仰头，球拍平放在身前地面。
+
+```
+1girl, solo, full body, tennis, kneeling, both hands behind head, elbows out, torso upright, head tilted up, looking up, tennis racket on floor, resting, front view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，跪姿，双手抱于脑后，双肘外张，上身直立，头向上微抬，抬眼向上，球拍放在地面，休息，正面视角，赤脚，纯色背景
+
+### P-25-16 · Celebrate
+跪地庆祝，一臂握拳高举，另一臂屈肘收在体侧，胸口打开、抬头看向高处。
+
+```
+1girl, solo, full body, tennis, kneeling, celebrating, one arm raised high, clenched fist, other arm bent at side, chest lifted, looking up, happy, front view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，网球，跪姿，庆祝，单臂高举，握拳，另一臂屈在体侧，胸口上提，抬眼向上，开心，正面视角，赤脚，纯色背景
 
 ## 通用负向
 
