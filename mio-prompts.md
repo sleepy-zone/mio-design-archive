@@ -3847,6 +3847,174 @@
 
 **中文对照**：一个女孩，单人，全身，网球，跪姿，庆祝，单臂高举，握拳，另一臂屈在体侧，胸口上提，抬眼向上，开心，正面视角，赤脚，纯色背景
 
+## Mio’s Pose Designs Vol. 26
+*双人 · 站姿与合影 · 2026-11-16 · [原帖](https://x.com/Mio_2am/status/2122461879562014732)*
+
+### P-26-01 · Side Lean
+两人并肩站立、身体向中间倾，头靠在一起，手叉在腰上，外侧腿交叉点地，正面看向镜头。
+
+```
+2girls, full body, standing, side by side, leaning toward each other, heads together, hands on hips, one leg crossed, duo pose, front view, relaxed, smiling, looking at viewer, barefoot, plain background
+```
+
+**中文对照**：两位女性，全身，站立，并肩，彼此靠向中间，头靠在一起，双手叉腰，一腿交叉，双人姿势，正面视角，放松，微笑，看向镜头，赤脚，纯色背景
+
+### P-26-02 · Back to Back
+两人背靠背站立、肩膀相贴，双臂抱在胸前，各自头转向相反方向，一腿交叉点地。
+
+```
+2girls, full body, standing, back to back, arms crossed, shoulders touching, heads turned, looking to opposite sides, duo pose, front view, calm, torso upright, one leg crossed, barefoot, plain background
+```
+
+**中文对照**：两位女性，全身，站立，背靠背，双臂交叉，肩膀相贴，头转向一侧，分别看向两侧，双人姿势，正面视角，平静，上身直立，一腿交叉，赤脚，纯色背景
+
+### P-26-03 · V Sign
+两人并肩站在一处，各自抬手在脸侧比 V，另一只手垂在身侧，一腿向后抬起，笑着看镜头。
+
+```
+2girls, full body, standing, side by side, peace sign, hand near face, one leg lifted, duo pose, front view, cheerful, playful, tilted head, smiling, looking at viewer, barefoot, plain background
+```
+
+**中文对照**：两位女性，全身，站立，并肩，比V手势，手靠近脸侧，一腿抬起，双人姿势，正面视角，开朗，俏皮，头微倾，微笑，看向镜头，赤脚，纯色背景
+
+### P-26-04 · Squat Pose
+两人并排蹲下、膝盖分开，一手贴近脸侧、另一手扶在膝头，上身直立看向镜头。
+
+```
+2girls, full body, squatting, side by side, knees bent, one hand near face, other hand on knee, low pose, torso upright, duo pose, front view, calm, looking at viewer, barefoot, plain background
+```
+
+**中文对照**：两位女性，全身，蹲，并肩，双膝弯曲，一手靠近脸部，另一手扶膝，低姿，上身直立，双人姿势，正面视角，平静，看向镜头，赤脚，纯色背景
+
+### P-26-05 · Sitting Together
+两人背靠背坐地、屈膝立起，头靠在一起，双手在身后撑地，放松看向镜头。
+
+```
+2girls, full body, sitting on floor, knees bent up, back to back, heads touching, hands on floor behind, duo pose, front view, relaxed, smiling, looking at viewer, knees bent, barefoot, plain background
+```
+
+**中文对照**：两位女性，全身，坐地，屈膝立起，背靠背，头顶相触，双手在身后撑地，双人姿势，正面视角，放松，微笑，看向镜头，双膝弯曲，赤脚，纯色背景
+
+### P-26-06 · Kneeling Pose
+两人并肩跪坐，一手举起在脸侧摇动、另一手搭在大腿上，上身挺直看向镜头。
+
+```
+2girls, full body, kneeling, side by side, one hand raised, waving, other hand on thigh, torso upright, duo pose, front view, smiling, looking at viewer, calm, barefoot, plain background
+```
+
+**中文对照**：两位女性，全身，跪姿，并肩，一只手举起，挥手，另一手放大腿，上身直立，双人姿势，正面视角，微笑，看向镜头，平静，赤脚，纯色背景
+
+### P-26-07 · Arm Around
+两人并肩站立，一人手臂搂在同伴肩上，另一臂向侧伸出，外侧腿交叉，头靠在一起。
+
+```
+2girls, full body, standing, arm around shoulder, side by side, one leg crossed, other arm extended, heads together, duo pose, front view, smiling, looking at viewer, torso upright, barefoot, plain background
+```
+
+**中文对照**：两位女性，全身，站立，手臂搂肩，并肩，一腿交叉，另一臂伸展，头靠在一起，双人姿势，正面视角，微笑，看向镜头，上身直立，赤脚，纯色背景
+
+### P-26-08 · Heart Pose
+两人面对面站立，双臂举过头顶、手掌相接围成心形，一腿屈膝抬起，笑着看向镜头。
+
+```
+2girls, full body, standing, facing each other, arms raised overhead, hands joined, heart shape, one knee bent, duo pose, front view, smiling, looking at viewer, torso upright, barefoot, plain background
+```
+
+**中文对照**：两位女性，全身，站立，面对面，双臂高举过头，双手相接，心形，单膝弯曲，双人姿势，正面视角，微笑，看向镜头，上身直立，赤脚，纯色背景
+
+### P-26-09 · Relax Recline
+两人并排坐地、腿向前伸，一人向后靠在一只手上，另一人把手垫在脑后，放松看镜头。
+
+```
+2girls, full body, sitting on floor, legs extended, reclining, leaning on one hand, other hand behind head, duo pose, front view, relaxed, smiling, looking at viewer, one knee bent, barefoot, plain background
+```
+
+**中文对照**：两位女性，全身，坐地，双腿伸展，斜倚，单手撑身，另一手扶脑后，双人姿势，正面视角，放松，微笑，看向镜头，单膝弯曲，赤脚，纯色背景
+
+## Mio’s Pose Designs Vol. 27
+*双人 · 街拍与合影 · 2026-11-17 · [原帖](https://x.com/Mio_2am/status/2122522109922742341)*
+
+### P-27-01 · Walking Together
+两人并肩向前走、手臂自然下垂几乎相触，长发随步伐轻摆，穿着高跟鞋看向前方。
+
+```
+2girls, full body, walking, side by side, step forward, arms relaxed, torso upright, calm, high heels, street style, duo pose, side view, smiling, looking ahead, plain background
+```
+
+**中文对照**：两位女性，全身，行走，并肩，向前迈步，手臂自然下垂，上身直立，平静，高跟鞋，街拍风格，双人姿势，侧视角，微笑，目视前方，纯色背景
+
+### P-27-02 · Selfie Pose
+两人并肩站立，一人举臂拿手机自拍，另一人比 V 字手势，一腿交叉，笑看镜头。
+
+```
+2girls, full body, standing, one arm raised, holding a phone, selfie, other hand peace sign, one leg crossed, duo pose, front view, smiling, looking at viewer, cheerful, high heels, plain background
+```
+
+**中文对照**：两位女性，全身，站立，单臂抬起，举着手机，自拍，另一手比V，一腿交叉，双人姿势，正面视角，微笑，看向镜头，开朗，高跟鞋，纯色背景
+
+### P-27-03 · Lookout
+两人背对镜头倚在栏杆上，一手扶栏杆、另一手抬到头后，双腿分开、髋部后送看远处。
+
+```
+2girls, full body, from behind, back view, leaning on railing, hand on railing, other hand behind head, legs apart, hips pushed back, duo pose, relaxed, calm, shoulders back, high heels, plain background
+```
+
+**中文对照**：两位女性，全身，背向，背面视角，倚着栏杆，手扶栏杆，另一手扶脑后，双腿分开，髋部后推，双人姿势，放松，平静，双肩后展，高跟鞋，纯色背景
+
+### P-27-04 · Sitting Chat
+两人在长椅上相对而坐、一腿交叠，边说边抬手比划，侧脸朝向对方。
+
+```
+2girls, full body, sitting on bench, facing each other, talking, hand gesturing, legs crossed, duo pose, side view, relaxed, smiling, calm, torso upright, high heels, plain background
+```
+
+**中文对照**：两位女性，全身，坐长凳，面对面，交谈，手势比划，双腿交叉，双人姿势，侧视角，放松，微笑，平静，上身直立，高跟鞋，纯色背景
+
+### P-27-05 · Photo Pose
+两人并肩站立，各自比出 V 字手势、一腿向后抬起，笑着正对镜头。
+
+```
+2girls, full body, standing, side by side, peace sign, one leg lifted, duo pose, front view, cheerful, playful, smiling, looking at viewer, torso upright, high heels, plain background
+```
+
+**中文对照**：两位女性，全身，站立，并肩，比V手势，一腿抬起，双人姿势，正面视角，开朗，俏皮，微笑，看向镜头，上身直立，高跟鞋，纯色背景
+
+### P-27-06 · Back to Back
+两人背靠背站立、双臂抱在胸前，一腿交叉，头转向相反方向，脚踩高跟鞋。
+
+```
+2girls, full body, standing, back to back, arms crossed, one leg crossed, heads turned, looking to opposite sides, duo pose, side view, calm, torso upright, shoulders back, high heels, plain background
+```
+
+**中文对照**：两位女性，全身，站立，背靠背，双臂交叉，一腿交叉，头转向一侧，分别看向两侧，双人姿势，侧视角，平静，上身直立，双肩后展，高跟鞋，纯色背景
+
+### P-27-07 · Stroll Side by Side
+两人并肩向前走，一人肩上挎着包、另一手自然摆动，踩着高跟鞋看向前方。
+
+```
+2girls, full body, walking, side by side, shoulder bag, step forward, arms relaxed, street style, duo pose, side view, smiling, looking ahead, calm, high heels, plain background
+```
+
+**中文对照**：两位女性，全身，行走，并肩，单肩包，向前迈步，手臂自然下垂，街拍风格，双人姿势，侧视角，微笑，目视前方，平静，高跟鞋，纯色背景
+
+### P-27-08 · Relax Together
+两人并排坐地、腿向前伸展，双手在身后撑地微微后仰，头靠在一起笑着看镜头。
+
+```
+2girls, full body, sitting on floor, legs extended, leaning back on hands, heads together, one knee bent, duo pose, front view, relaxed, smiling, looking at viewer, calm, barefoot, plain background
+```
+
+**中文对照**：两位女性，全身，坐地，双腿伸展，双手撑地后仰，头靠在一起，单膝弯曲，双人姿势，正面视角，放松，微笑，看向镜头，平静，赤脚，纯色背景
+
+### P-27-09 · Scenic View
+两人背对镜头并坐在石台上，双手撑在身后，一起望向远处的山景，腿向前垂落。
+
+```
+2girls, full body, from behind, back view, sitting, looking at scenery, mountains, hands on floor behind, legs extended, scenic view, duo pose, relaxed, calm, barefoot, plain background
+```
+
+**中文对照**：两位女性，全身，背向，背面视角，坐着，望向风景，山景，双手在身后撑地，双腿伸展，风景视野，双人姿势，放松，平静，赤脚，纯色背景
+
 ## 通用负向
 
 ```

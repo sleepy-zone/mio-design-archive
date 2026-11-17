@@ -1,6 +1,6 @@
 # 霧島澪 · 设计档案索引
 
-> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 45 卷 / 412 件
+> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 47 卷 / 430 件
 
 ## 编号规则
 
@@ -38,7 +38,7 @@
 | Vol.12 | 2026-11-15 | 运动 · 露肩T恤九套 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2121814213505265933) |
 | Vol.13 | 2026-11-15 | 波西米亚 · 刺绣与喇叭裤 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2121898416188125599) |
 
-## 姿势 Pose（25 卷 · 232 件）
+## 姿势 Pose（27 卷 · 250 件）
 
 | 卷 | 日期 | 主题 | 单件 | 原帖 |
 |---|---|---|---|---|
@@ -67,10 +67,12 @@
 | Vol.23 | 2026-11-13 | 椅子 · 通勤坐姿 | 1. Pose 23-01 · 2. Pose 23-02 · 3. Pose 23-03 · 4. Pose 23-04 · 5. Pose 23-05 · 6. Pose 23-06 · 7. Pose 23-07 · 8. Pose 23-08 · 9. Pose 23-09 | [链接](https://x.com/Mio_2am/status/2121163262553465129) |
 | Vol.24 | 2026-11-14 | 坐姿 · 地面扭转 | 1. Side Lean · 2. Kneel Turn · 3. Sit Arch · 4. SS Sit · 5. Leg Extend · 6. Twist Sit · 7. Side Reach · 8. Back Pose · 9. Recline Kick | [链接](https://x.com/Mio_2am/status/2121752199621669187) |
 | Vol.25 | 2026-11-16 | 网球 · 十六个动作 | 1. Ready Stance · 2. Toss · 3. Serve · 4. Forehand · 5. Backhand · 6. Volley · 7. Lob · 8. Smash · 9. Run · 10. Slide · 11. Reach · 12. Follow Through · 13. Pick Up · 14. Sit Rest · 15. Kneel Rest · 16. Celebrate | [链接](https://x.com/Mio_2am/status/2122159771587625470) |
+| Vol.26 | 2026-11-16 | 双人 · 站姿与合影 | 1. Side Lean · 2. Back to Back · 3. V Sign · 4. Squat Pose · 5. Sitting Together · 6. Kneeling Pose · 7. Arm Around · 8. Heart Pose · 9. Relax Recline | [链接](https://x.com/Mio_2am/status/2122461879562014732) |
+| Vol.27 | 2026-11-17 | 双人 · 街拍与合影 | 1. Walking Together · 2. Selfie Pose · 3. Lookout · 4. Sitting Chat · 5. Photo Pose · 6. Back to Back · 7. Stroll Side by Side · 8. Relax Together · 9. Scenic View | [链接](https://x.com/Mio_2am/status/2122522109922742341) |
 
 ## 收录状态
 
-45 卷 / 412 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
+47 卷 / 430 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
 
 ## 版权
 

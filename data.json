@@ -5541,6 +5541,240 @@
    ],
    "count": 16,
    "note": "16 格网球动作：准备、抛球、发球、正反手、截击、挑高、扣杀、跑动滑步与休息庆祝。"
+  },
+  {
+   "slug": "pose-26",
+   "series": "pose",
+   "vol": 26,
+   "date": "2026-11-16",
+   "url": "https://x.com/Mio_2am/status/2122461879562014732",
+   "theme_zh": "双人 · 站姿与合影",
+   "theme_en": "Duo poses",
+   "tags": [
+    "双人",
+    "合影",
+    "互动"
+   ],
+   "title": "Mio’s Pose Designs Vol. 26",
+   "sheet": "assets/sheets/pose-26.jpg",
+   "items": [
+    {
+     "no": 1,
+     "id": "P-26-01",
+     "name": "Side Lean",
+     "tags": [
+      "倚靠"
+     ],
+     "tile": "assets/tiles/pose-26-01.jpg",
+     "zh": "两人并肩站立、身体向中间倾，头靠在一起，手叉在腰上，外侧腿交叉点地，正面看向镜头。",
+     "prompt": "2girls, full body, standing, side by side, leaning toward each other, heads together, hands on hips, one leg crossed, duo pose, front view, relaxed, smiling, looking at viewer, barefoot, plain background",
+     "prompt_zh": "两位女性，全身，站立，并肩，彼此靠向中间，头靠在一起，双手叉腰，一腿交叉，双人姿势，正面视角，放松，微笑，看向镜头，赤脚，纯色背景"
+    },
+    {
+     "no": 2,
+     "id": "P-26-02",
+     "name": "Back to Back",
+     "tags": [],
+     "tile": "assets/tiles/pose-26-02.jpg",
+     "zh": "两人背靠背站立、肩膀相贴，双臂抱在胸前，各自头转向相反方向，一腿交叉点地。",
+     "prompt": "2girls, full body, standing, back to back, arms crossed, shoulders touching, heads turned, looking to opposite sides, duo pose, front view, calm, torso upright, one leg crossed, barefoot, plain background",
+     "prompt_zh": "两位女性，全身，站立，背靠背，双臂交叉，肩膀相贴，头转向一侧，分别看向两侧，双人姿势，正面视角，平静，上身直立，一腿交叉，赤脚，纯色背景"
+    },
+    {
+     "no": 3,
+     "id": "P-26-03",
+     "name": "V Sign",
+     "tags": [],
+     "tile": "assets/tiles/pose-26-03.jpg",
+     "zh": "两人并肩站在一处，各自抬手在脸侧比 V，另一只手垂在身侧，一腿向后抬起，笑着看镜头。",
+     "prompt": "2girls, full body, standing, side by side, peace sign, hand near face, one leg lifted, duo pose, front view, cheerful, playful, tilted head, smiling, looking at viewer, barefoot, plain background",
+     "prompt_zh": "两位女性，全身，站立，并肩，比V手势，手靠近脸侧，一腿抬起，双人姿势，正面视角，开朗，俏皮，头微倾，微笑，看向镜头，赤脚，纯色背景"
+    },
+    {
+     "no": 4,
+     "id": "P-26-04",
+     "name": "Squat Pose",
+     "tags": [
+      "蹲"
+     ],
+     "tile": "assets/tiles/pose-26-04.jpg",
+     "zh": "两人并排蹲下、膝盖分开，一手贴近脸侧、另一手扶在膝头，上身直立看向镜头。",
+     "prompt": "2girls, full body, squatting, side by side, knees bent, one hand near face, other hand on knee, low pose, torso upright, duo pose, front view, calm, looking at viewer, barefoot, plain background",
+     "prompt_zh": "两位女性，全身，蹲，并肩，双膝弯曲，一手靠近脸部，另一手扶膝，低姿，上身直立，双人姿势，正面视角，平静，看向镜头，赤脚，纯色背景"
+    },
+    {
+     "no": 5,
+     "id": "P-26-05",
+     "name": "Sitting Together",
+     "tags": [
+      "坐"
+     ],
+     "tile": "assets/tiles/pose-26-05.jpg",
+     "zh": "两人背靠背坐地、屈膝立起，头靠在一起，双手在身后撑地，放松看向镜头。",
+     "prompt": "2girls, full body, sitting on floor, knees bent up, back to back, heads touching, hands on floor behind, duo pose, front view, relaxed, smiling, looking at viewer, knees bent, barefoot, plain background",
+     "prompt_zh": "两位女性，全身，坐地，屈膝立起，背靠背，头顶相触，双手在身后撑地，双人姿势，正面视角，放松，微笑，看向镜头，双膝弯曲，赤脚，纯色背景"
+    },
+    {
+     "no": 6,
+     "id": "P-26-06",
+     "name": "Kneeling Pose",
+     "tags": [
+      "跪"
+     ],
+     "tile": "assets/tiles/pose-26-06.jpg",
+     "zh": "两人并肩跪坐，一手举起在脸侧摇动、另一手搭在大腿上，上身挺直看向镜头。",
+     "prompt": "2girls, full body, kneeling, side by side, one hand raised, waving, other hand on thigh, torso upright, duo pose, front view, smiling, looking at viewer, calm, barefoot, plain background",
+     "prompt_zh": "两位女性，全身，跪姿，并肩，一只手举起，挥手，另一手放大腿，上身直立，双人姿势，正面视角，微笑，看向镜头，平静，赤脚，纯色背景"
+    },
+    {
+     "no": 7,
+     "id": "P-26-07",
+     "name": "Arm Around",
+     "tags": [],
+     "tile": "assets/tiles/pose-26-07.jpg",
+     "zh": "两人并肩站立，一人手臂搂在同伴肩上，另一臂向侧伸出，外侧腿交叉，头靠在一起。",
+     "prompt": "2girls, full body, standing, arm around shoulder, side by side, one leg crossed, other arm extended, heads together, duo pose, front view, smiling, looking at viewer, torso upright, barefoot, plain background",
+     "prompt_zh": "两位女性，全身，站立，手臂搂肩，并肩，一腿交叉，另一臂伸展，头靠在一起，双人姿势，正面视角，微笑，看向镜头，上身直立，赤脚，纯色背景"
+    },
+    {
+     "no": 8,
+     "id": "P-26-08",
+     "name": "Heart Pose",
+     "tags": [],
+     "tile": "assets/tiles/pose-26-08.jpg",
+     "zh": "两人面对面站立，双臂举过头顶、手掌相接围成心形，一腿屈膝抬起，笑着看向镜头。",
+     "prompt": "2girls, full body, standing, facing each other, arms raised overhead, hands joined, heart shape, one knee bent, duo pose, front view, smiling, looking at viewer, torso upright, barefoot, plain background",
+     "prompt_zh": "两位女性，全身，站立，面对面，双臂高举过头，双手相接，心形，单膝弯曲，双人姿势，正面视角，微笑，看向镜头，上身直立，赤脚，纯色背景"
+    },
+    {
+     "no": 9,
+     "id": "P-26-09",
+     "name": "Relax Recline",
+     "tags": [
+      "卧"
+     ],
+     "tile": "assets/tiles/pose-26-09.jpg",
+     "zh": "两人并排坐地、腿向前伸，一人向后靠在一只手上，另一人把手垫在脑后，放松看镜头。",
+     "prompt": "2girls, full body, sitting on floor, legs extended, reclining, leaning on one hand, other hand behind head, duo pose, front view, relaxed, smiling, looking at viewer, one knee bent, barefoot, plain background",
+     "prompt_zh": "两位女性，全身，坐地，双腿伸展，斜倚，单手撑身，另一手扶脑后，双人姿势，正面视角，放松，微笑，看向镜头，单膝弯曲，赤脚，纯色背景"
+    }
+   ],
+   "count": 9,
+   "note": "两个人的九种合影姿势：并肩、背靠背、举 V、同蹲、同坐与心形手。"
+  },
+  {
+   "slug": "pose-27",
+   "series": "pose",
+   "vol": 27,
+   "date": "2026-11-17",
+   "url": "https://x.com/Mio_2am/status/2122522109922742341",
+   "theme_zh": "双人 · 街拍与合影",
+   "theme_en": "Duo poses II",
+   "tags": [
+    "双人",
+    "街拍",
+    "合影"
+   ],
+   "title": "Mio’s Pose Designs Vol. 27",
+   "sheet": "assets/sheets/pose-27.jpg",
+   "items": [
+    {
+     "no": 1,
+     "id": "P-27-01",
+     "name": "Walking Together",
+     "tags": [],
+     "tile": "assets/tiles/pose-27-01.jpg",
+     "zh": "两人并肩向前走、手臂自然下垂几乎相触，长发随步伐轻摆，穿着高跟鞋看向前方。",
+     "prompt": "2girls, full body, walking, side by side, step forward, arms relaxed, torso upright, calm, high heels, street style, duo pose, side view, smiling, looking ahead, plain background",
+     "prompt_zh": "两位女性，全身，行走，并肩，向前迈步，手臂自然下垂，上身直立，平静，高跟鞋，街拍风格，双人姿势，侧视角，微笑，目视前方，纯色背景"
+    },
+    {
+     "no": 2,
+     "id": "P-27-02",
+     "name": "Selfie Pose",
+     "tags": [],
+     "tile": "assets/tiles/pose-27-02.jpg",
+     "zh": "两人并肩站立，一人举臂拿手机自拍，另一人比 V 字手势，一腿交叉，笑看镜头。",
+     "prompt": "2girls, full body, standing, one arm raised, holding a phone, selfie, other hand peace sign, one leg crossed, duo pose, front view, smiling, looking at viewer, cheerful, high heels, plain background",
+     "prompt_zh": "两位女性，全身，站立，单臂抬起，举着手机，自拍，另一手比V，一腿交叉，双人姿势，正面视角，微笑，看向镜头，开朗，高跟鞋，纯色背景"
+    },
+    {
+     "no": 3,
+     "id": "P-27-03",
+     "name": "Lookout",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/pose-27-03.jpg",
+     "zh": "两人背对镜头倚在栏杆上，一手扶栏杆、另一手抬到头后，双腿分开、髋部后送看远处。",
+     "prompt": "2girls, full body, from behind, back view, leaning on railing, hand on railing, other hand behind head, legs apart, hips pushed back, duo pose, relaxed, calm, shoulders back, high heels, plain background",
+     "prompt_zh": "两位女性，全身，背向，背面视角，倚着栏杆，手扶栏杆，另一手扶脑后，双腿分开，髋部后推，双人姿势，放松，平静，双肩后展，高跟鞋，纯色背景"
+    },
+    {
+     "no": 4,
+     "id": "P-27-04",
+     "name": "Sitting Chat",
+     "tags": [
+      "坐"
+     ],
+     "tile": "assets/tiles/pose-27-04.jpg",
+     "zh": "两人在长椅上相对而坐、一腿交叠，边说边抬手比划，侧脸朝向对方。",
+     "prompt": "2girls, full body, sitting on bench, facing each other, talking, hand gesturing, legs crossed, duo pose, side view, relaxed, smiling, calm, torso upright, high heels, plain background",
+     "prompt_zh": "两位女性，全身，坐长凳，面对面，交谈，手势比划，双腿交叉，双人姿势，侧视角，放松，微笑，平静，上身直立，高跟鞋，纯色背景"
+    },
+    {
+     "no": 5,
+     "id": "P-27-05",
+     "name": "Photo Pose",
+     "tags": [],
+     "tile": "assets/tiles/pose-27-05.jpg",
+     "zh": "两人并肩站立，各自比出 V 字手势、一腿向后抬起，笑着正对镜头。",
+     "prompt": "2girls, full body, standing, side by side, peace sign, one leg lifted, duo pose, front view, cheerful, playful, smiling, looking at viewer, torso upright, high heels, plain background",
+     "prompt_zh": "两位女性，全身，站立，并肩，比V手势，一腿抬起，双人姿势，正面视角，开朗，俏皮，微笑，看向镜头，上身直立，高跟鞋，纯色背景"
+    },
+    {
+     "no": 6,
+     "id": "P-27-06",
+     "name": "Back to Back",
+     "tags": [],
+     "tile": "assets/tiles/pose-27-06.jpg",
+     "zh": "两人背靠背站立、双臂抱在胸前，一腿交叉，头转向相反方向，脚踩高跟鞋。",
+     "prompt": "2girls, full body, standing, back to back, arms crossed, one leg crossed, heads turned, looking to opposite sides, duo pose, side view, calm, torso upright, shoulders back, high heels, plain background",
+     "prompt_zh": "两位女性，全身，站立，背靠背，双臂交叉，一腿交叉，头转向一侧，分别看向两侧，双人姿势，侧视角，平静，上身直立，双肩后展，高跟鞋，纯色背景"
+    },
+    {
+     "no": 7,
+     "id": "P-27-07",
+     "name": "Stroll Side by Side",
+     "tags": [],
+     "tile": "assets/tiles/pose-27-07.jpg",
+     "zh": "两人并肩向前走，一人肩上挎着包、另一手自然摆动，踩着高跟鞋看向前方。",
+     "prompt": "2girls, full body, walking, side by side, shoulder bag, step forward, arms relaxed, street style, duo pose, side view, smiling, looking ahead, calm, high heels, plain background",
+     "prompt_zh": "两位女性，全身，行走，并肩，单肩包，向前迈步，手臂自然下垂，街拍风格，双人姿势，侧视角，微笑，目视前方，平静，高跟鞋，纯色背景"
+    },
+    {
+     "no": 8,
+     "id": "P-27-08",
+     "name": "Relax Together",
+     "tags": [],
+     "tile": "assets/tiles/pose-27-08.jpg",
+     "zh": "两人并排坐地、腿向前伸展，双手在身后撑地微微后仰，头靠在一起笑着看镜头。",
+     "prompt": "2girls, full body, sitting on floor, legs extended, leaning back on hands, heads together, one knee bent, duo pose, front view, relaxed, smiling, looking at viewer, calm, barefoot, plain background",
+     "prompt_zh": "两位女性，全身，坐地，双腿伸展，双手撑地后仰，头靠在一起，单膝弯曲，双人姿势，正面视角，放松，微笑，看向镜头，平静，赤脚，纯色背景"
+    },
+    {
+     "no": 9,
+     "id": "P-27-09",
+     "name": "Scenic View",
+     "tags": [],
+     "tile": "assets/tiles/pose-27-09.jpg",
+     "zh": "两人背对镜头并坐在石台上，双手撑在身后，一起望向远处的山景，腿向前垂落。",
+     "prompt": "2girls, full body, from behind, back view, sitting, looking at scenery, mountains, hands on floor behind, legs extended, scenic view, duo pose, relaxed, calm, barefoot, plain background",
+     "prompt_zh": "两位女性，全身，背向，背面视角，坐着，望向风景，山景，双手在身后撑地，双腿伸展，风景视野，双人姿势，放松，平静，赤脚，纯色背景"
+    }
+   ],
+   "count": 9,
+   "note": "双人街拍：牵手散步、自拍、倚栏杆、长椅聊天与并坐看风景。"
   }
  ]
 }
