@@ -592,6 +592,90 @@
 
 **中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，高发髻，齐刘海，厚刘海，两侧长发缕，亮泽发，优雅盘发，修饰脸型发丝，顺滑发，白色背景
 
+## Mio’s Hairstyle Designs Vol. 08
+*长发 · 发箍与发饰 · 2026-11-18 · [原帖](https://x.com/Mio_2am/status/2122975190137405502)*
+
+### H-08-01 · Classic Straight Long
+深棕长发垂到胸前，拉得很直、发尾剪齐，头顶压一条细浅色发箍，中分发缝。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long straight hair, hair down, thin headband, center part, smooth hair, glossy hair, neat hair, front view, calm, relaxed, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长直发，长发披落，细发箍，中分，顺滑发，亮泽发，整齐发丝，正面视角，平静，放松，白色背景
+
+### H-08-02 · Layered Long
+深棕长发改成层次剪，发尾向外翻卷，头顶一圈金色串珠发箍，发丝带光泽。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, layered hair, wavy ends, gold headband, beaded headband, front view, glossy hair, relaxed, looking at viewer, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，层次发型，卷翘发尾，金色发箍，串珠发箍，正面视角，亮泽发，放松，看向镜头，白色背景
+
+### H-08-03 · See-Through Bangs Long
+深棕直长发配轻薄透视刘海，额前一根细细的珍珠发箍，两侧发丝垂到胸前。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, see-through bangs, pearl headband, straight hair, hair down, front view, glossy hair, calm, looking at viewer, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，透视刘海，珍珠发箍，直发，长发披落，正面视角，亮泽发，平静，看向镜头，白色背景
+
+### H-08-04 · Side-Swept Long
+深棕长发侧分、刘海斜扫过额头，头顶戴一圈小花发箍，发尾做大波浪向内收。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, side-swept bangs, floral headband, wavy hair, hair down, soft waves, front view, glossy hair, relaxed, looking at viewer, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，侧扫刘海，小花发箍，波浪发，长发披落，柔和波浪，正面视角，亮泽发，放松，看向镜头，白色背景
+
+### H-08-05 · Half-Up Long
+深棕长发上半部收起、两侧各编一小股辫，配小花发箍，其余发丝自然垂落。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, half updo, small braids, braided sides, floral headband, hair down, front view, glossy hair, calm, looking at viewer, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，半盘发，小股编发，两侧编发，小花发箍，长发披落，正面视角，亮泽发，平静，看向镜头，白色背景
+
+### H-08-06 · Low Tied Long
+深棕长发在耳后低扎、两侧各系一只浅色蝴蝶结，头顶一条同色缎带发箍。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, half updo, low tied, ribbons, bow, ribbon headband, hair down, front view, glossy hair, calm, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，半盘发，低扎，缎带，蝴蝶结，缎带发箍，长发披落，正面视角，亮泽发，平静，白色背景
+
+### H-08-07 · Hime Long
+深棕姬发式：齐刘海压到眉上，两侧各留一束齐耳短发，后面长发披落，配深色发箍。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, hime cut, blunt bangs, side locks, dark headband, gold accents, straight hair, front view, glossy hair, calm, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，公主切，齐刘海，侧发绺，深色发箍，金色点缀，直发，正面视角，亮泽发，平静，白色背景
+
+### H-08-08 · Twist Crown Long
+深棕长发沿头顶扭成两股编发、在后脑交叠成皇冠，下面长发披落，配小花发箍。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, twist crown, braided crown, floral headband, hair down, front view, glossy hair, elegant updo, calm, looking at viewer, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，扭辫皇冠，编发皇冠，小花发箍，长发披落，正面视角，亮泽发，优雅盘发，平静，看向镜头，白色背景
+
+### H-08-09 · Wavy Long
+深棕长发烫成松散大波浪、披满两肩，头顶一圈小花发箍压住发根，发尾微卷。
+
+```
+1girl, solo, portrait, upper body, dark brown hair, long hair, wavy hair, loose waves, floral headband, hair down, front view, glossy hair, relaxed, looking at viewer, white background
+```
+
+**中文对照**：一个女孩，单人，肖像，上半身，深棕发，长发，波浪发，松散波浪，小花发箍，长发披落，正面视角，亮泽发，放松，看向镜头，白色背景
+
 ## Mio’s Cloth Designs Vol. 01
 *万圣节 · 红黑哥特 · 2026-10-29 · [原帖](https://x.com/Mio_2am/status/2115641495802024391)*
 

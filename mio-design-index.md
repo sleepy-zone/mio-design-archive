@@ -1,6 +1,6 @@
 # 霧島澪 · 设计档案索引
 
-> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 47 卷 / 430 件
+> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 48 卷 / 439 件
 
 ## 编号规则
 
@@ -8,7 +8,7 @@
 - `C-05-07` = 服装第 5 卷 · 第 7 套
 - `H-06-02` = 发型第 6 卷 · 第 2 式
 
-## 发型 Hair（7 卷 · 63 件）
+## 发型 Hair（8 卷 · 72 件）
 
 | 卷 | 日期 | 主题 | 单件 | 原帖 |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | Vol.05 | 2026-10-23 | 马尾 · 九种扎法 | 1. Style 01 · 2. Style 02 · 3. Style 03 · 4. Style 04 · 5. Style 05 · 6. Style 06 · 7. Style 07 · 8. Style 08 · 9. Style 09 | [链接](https://x.com/Mio_2am/status/2113451634131173881) |
 | Vol.06 | 2026-10-27 | 短发 · 波波头 | 1. Center-Parted Straight Bob · 2. Airy Bangs Straight Bob · 3. Curtain Bangs Straight Bob · 4. Side-Swept Bangs Straight Bob · 5. Arched Bangs Straight Bob · 6. Curtain Bangs Wavy Bob · 7. Deep Side-Part Retro Waves · 8. Wispy Bangs Curly Bob · 9. Curly Bangs Spiral Bob | [链接](https://x.com/Mio_2am/status/2114912056038359207) |
 | Vol.07 | 2026-11-16 | 盘发 · 九种扎法 | 1. Side-Swept High Bun · 2. FF Ruru-style Fantasy Updo · 3. Sleek Ballerina Bun · 4. Low Chignon · 5. French Twist · 6. Messy Top Knot · 7. Braided Crown Updo · 8. Side Chignon · 9. Bangs High Bun | [链接](https://x.com/Mio_2am/status/2122099324154724796) |
+| Vol.08 | 2026-11-18 | 长发 · 发箍与发饰 | 1. Classic Straight Long · 2. Layered Long · 3. See-Through Bangs Long · 4. Side-Swept Long · 5. Half-Up Long · 6. Low Tied Long · 7. Hime Long · 8. Twist Crown Long · 9. Wavy Long | [链接](https://x.com/Mio_2am/status/2122975190137405502) |
 
 ## 服装 Cloth（13 卷 · 117 件）
 
@@ -72,7 +73,7 @@
 
 ## 收录状态
 
-47 卷 / 430 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
+48 卷 / 439 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
 
 ## 版权
 
