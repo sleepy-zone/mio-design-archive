@@ -4099,6 +4099,90 @@
 
 **中文对照**：两位女性，全身，背向，背面视角，坐着，望向风景，山景，双手在身后撑地，双腿伸展，风景视野，双人姿势，放松，平静，赤脚，纯色背景
 
+## Mio’s Pose Designs Vol. 28
+*地面 · 跪坐与支撑 · 2026-11-19 · [原帖](https://x.com/Mio_2am/status/2123231740785553876)*
+
+### P-28-01 · Kneel Sit
+双膝跪坐、臀部压在脚跟上，上身挺直，双手撑在身前地面，正面平视镜头。
+
+```
+1girl, solo, full body, kneeling, sitting on heels, knees together, torso upright, both hands on floor in front, shoulders back, front view, relaxed, looking at viewer, calm, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，跪姿，跪坐，双膝并拢，上身直立，双手撑在身前地面，双肩后展，正面视角，放松，看向镜头，平静，赤脚，纯色背景
+
+### P-28-02 · Arch Sit
+坐地、双手在身后撑直，双膝立起脚掌踩地，腰背反弓、胸口上提，头后仰向上。
+
+```
+1girl, solo, full body, sitting on floor, leaning back, both hands on floor behind, knees bent, feet on floor, hips raised, back arched, chest lifted, head tilted back, looking up, side view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，后仰，双手在身后撑地，双膝弯曲，双脚着地，髋部抬起，背部反弓，胸口上提，头后仰，抬眼向上，侧视角，赤脚，纯色背景
+
+### P-28-03 · Side Lunge
+侧向弓步压低身体，一腿向侧伸直、另一腿屈膝跪地，一臂屈肘举过头顶，另一手撑地。
+
+```
+1girl, solo, full body, side lunge, kneeling, one leg extended to the side, other knee bent, one arm over head, elbow bent, other hand on floor, torso upright, side view, looking at viewer, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，侧弓步，跪姿，单腿向侧伸展，另一膝弯曲，单臂举过头顶，屈肘，另一手撑地，上身直立，侧视角，看向镜头，赤脚，纯色背景
+
+### P-28-04 · Cross Sit
+盘腿坐地、一腿叠在另一腿上，一手搭在膝头、另一手在身后撑地，上身略前倾平视镜头。
+
+```
+1girl, solo, full body, sitting on floor, legs crossed, cross-legged, one hand on knee, other hand on floor behind, leaning forward slightly, torso upright, front view, looking at viewer, calm, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，双腿交叉，盘腿，一手扶膝，另一手在身后撑地，微微前倾，上身直立，正面视角，看向镜头，平静，赤脚，纯色背景
+
+### P-28-05 · Lean Back
+仰躺在地、双肘撑起上身，双膝屈起脚掌踩地，胸口上提、头向后仰，腰背成弧。
+
+```
+1girl, solo, full body, lying on back, propped on forearms, knees bent, feet on floor, chest lifted, back arched, head tilted back, hips raised, side view, relaxed, eyes closed, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，仰卧，前臂支撑，双膝弯曲，双脚着地，胸口上提，背部反弓，头后仰，髋部抬起，侧视角，放松，闭眼，赤脚，纯色背景
+
+### P-28-06 · Twist Sit
+跪坐在脚跟上，上身后拧，一手扶在膝头、另一手撑地，回头越过肩膀看向镜头。
+
+```
+1girl, solo, full body, kneeling, sitting on heels, torso twisted, one hand on knee, other hand on floor, looking back over shoulder, head turned, shoulders turned, back arched, from behind, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，跪姿，跪坐，上身拧转，一手扶膝，另一手撑地，回头望向肩后，头转向一侧，肩部转动，背部反弓，背向，赤脚，纯色背景
+
+### P-28-07 · Floor Slide
+俯卧在地、双臂撑直把上身推起，双腿向后伸直并拢，胸口抬高，抬头看向前方。
+
+```
+1girl, solo, full body, lying on stomach, propped up on arms, arms straight, legs extended back, legs together, chest lifted, head up, chin up, looking ahead, side view, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，俯卧，双臂撑起上身，双臂伸直，双腿向后伸直，双腿并拢，胸口上提，抬头，下巴微抬，目视前方，侧视角，赤脚，纯色背景
+
+### P-28-08 · Leg Raise
+侧躺、单手撑起上身，一腿笔直向上抬起、另一腿贴地伸展，另一手垫在脑后，仰头看。
+
+```
+1girl, solo, full body, reclining, lying on hip, propped on forearm, one leg raised straight up, other leg extended on floor, one hand behind head, torso twisted, side view, looking up, calm, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，斜倚，侧躺，前臂撑起，单腿笔直上举，另一腿贴地伸展，一手扶脑后，上身拧转，侧视角，抬眼向上，平静，赤脚，纯色背景
+
+### P-28-09 · Reverse Sit
+坐地、双腿分开屈膝、脚掌踩地，双手在身后撑住，髋部下沉、上身后仰，正面平视。
+
+```
+1girl, solo, full body, sitting on floor, legs apart, knees bent, feet on floor, hands on floor behind, leaning back, hips lowered, torso upright, front view, looking at viewer, barefoot, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，坐地，双腿分开，双膝弯曲，双脚着地，双手在身后撑地，后仰，髋部下沉，上身直立，正面视角，看向镜头，赤脚，纯色背景
+
 ## 通用负向
 
 ```
