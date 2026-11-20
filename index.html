@@ -27,8 +27,12 @@ button{font-family:inherit;color:inherit}
 .topbar-right{display:flex;align-items:center;gap:24px}
 .top-x{font-family:"Helvetica Neue",Arial,sans-serif;font-size:11px;letter-spacing:.14em;text-decoration:none;border-bottom:1px solid var(--ink);padding-bottom:2px}
 .dl{position:relative;display:flex;align-items:center}
-.dl-btn{font-family:"Helvetica Neue",Arial,sans-serif;font-size:11px;letter-spacing:.14em;text-transform:uppercase;background:none;border:0;border-bottom:1px solid var(--ink);padding:0 0 2px;cursor:pointer;display:inline-flex;align-items:center;gap:7px}
-.dl-btn .caret{font-size:9px;color:var(--accent);transition:transform .2s}
+.dl-btn{font-family:"Helvetica Neue",Arial,sans-serif;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;background:var(--ink);color:var(--white);border:0;border-radius:999px;padding:9px 16px;cursor:pointer;display:inline-flex;align-items:center;gap:8px;box-shadow:0 6px 18px rgba(27,26,23,.18);transition:transform .18s ease,box-shadow .18s ease,background .18s ease}
+.dl-btn:hover{transform:translateY(-1px);box-shadow:0 12px 26px rgba(27,26,23,.26);background:#2a2823}
+.dl-btn:active{transform:translateY(0)}
+.dl-btn .dot{width:6px;height:6px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 3px rgba(154,59,44,.18);animation:dlpulse 1.9s ease-in-out infinite}
+@keyframes dlpulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.7)}}
+.dl-btn .caret{font-size:9px;color:#e7b9ae;transition:transform .2s}
 .dl.open .dl-btn .caret{transform:rotate(180deg)}
 .dl-menu{position:absolute;right:0;top:calc(100% + 14px);width:252px;background:var(--white);border:1px solid var(--line);box-shadow:0 22px 48px rgba(27,26,23,.14);padding:10px;display:none;z-index:80}
 .dl.open .dl-menu{display:block}
@@ -160,10 +164,11 @@ main{max-width:1460px;margin:0 auto;padding:38px 40px 80px}
   <div class="brand">MIO <b>/</b> DESIGN ARCHIVE <b>/</b> 2026</div>
   <div class="topbar-right">
     <div class="dl" id="dl">
-      <button class="dl-btn" id="dlBtn" aria-expanded="false" aria-controls="dlMenu">整库下载 <span class="caret">↓</span></button>
+      <button class="dl-btn" id="dlBtn" aria-expanded="false" aria-controls="dlMenu"><span class="dot" aria-hidden="true"></span>网盘整库下载 <span class="caret">↓</span></button>
       <div class="dl-menu" id="dlMenu" role="dialog" aria-label="整库下载">
         <div class="dl-hd">整库打包 · 508 张图</div>
         <a href="https://drive.uc.cn/s/2206700fdc4d4" target="_blank" rel="noopener"><span>UC 网盘</span><em>无需提取码</em></a>
+        <a href="https://pan.xunlei.com/s/VP6tMtuXOfJTUtz5vFtxXCp4A1?pwd=ux93" target="_blank" rel="noopener"><span>迅雷网盘</span><em>提取码 ux93</em></a>
         <p class="dl-note">50 张九宫格 + 457 张单件图 + 总览与清单，约 19 MB。单张图仍可在详情面板另存。</p>
       </div>
     </div>
