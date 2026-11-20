@@ -149,6 +149,7 @@ cd dist && zip -rq -X mio-images-$(date +%Y%m%d).zip mio-images
 | `finalize.py` | 生成 data.js / tagdict.js / CSV / Markdown / STATS |
 | `make_overview.py` | 生成 32 卷封面总览 |
 | `export_images.py` | 把全部图片导出到 `dist/mio-images/`（扁平目录 + MANIFEST.csv），便于打包分发 |
+| `package_images.sh` | 导出 + 压缩成 `dist/mio-design-archive-images-YYYYMMDD.zip`（每周日 21:00 定时执行） |
 
 ## 8.5 站点文件（`library/`）
 
