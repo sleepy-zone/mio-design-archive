@@ -1,6 +1,6 @@
 # 霧島澪 · 设计档案索引
 
-> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 49 卷 / 448 件
+> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 50 卷 / 457 件
 
 ## 编号规则
 
@@ -21,7 +21,7 @@
 | Vol.07 | 2026-11-16 | 盘发 · 九种扎法 | 1. Side-Swept High Bun · 2. FF Ruru-style Fantasy Updo · 3. Sleek Ballerina Bun · 4. Low Chignon · 5. French Twist · 6. Messy Top Knot · 7. Braided Crown Updo · 8. Side Chignon · 9. Bangs High Bun | [链接](https://x.com/Mio_2am/status/2122099324154724796) |
 | Vol.08 | 2026-11-18 | 长发 · 发箍与发饰 | 1. Classic Straight Long · 2. Layered Long · 3. See-Through Bangs Long · 4. Side-Swept Long · 5. Half-Up Long · 6. Low Tied Long · 7. Hime Long · 8. Twist Crown Long · 9. Wavy Long | [链接](https://x.com/Mio_2am/status/2122975190137405502) |
 
-## 服装 Cloth（13 卷 · 117 件）
+## 服装 Cloth（14 卷 · 126 件）
 
 | 卷 | 日期 | 主题 | 单件 | 原帖 |
 |---|---|---|---|---|
@@ -38,6 +38,7 @@
 | Vol.11 | 2026-11-14 | 职场 · 半裙与裤装 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2121465224553488828) |
 | Vol.12 | 2026-11-15 | 运动 · 露肩T恤九套 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2121814213505265933) |
 | Vol.13 | 2026-11-15 | 波西米亚 · 刺绣与喇叭裤 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2121898416188125599) |
+| Vol.15 | 2026-11-20 | 秋冬 · 大衣与皮革 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2123639756122898551) |
 
 ## 姿势 Pose（28 卷 · 259 件）
 
@@ -74,7 +75,7 @@
 
 ## 收录状态
 
-49 卷 / 448 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
+50 卷 / 457 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
 
 ## 版权
 
