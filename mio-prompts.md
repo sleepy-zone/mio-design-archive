@@ -1936,6 +1936,90 @@
 
 **中文对照**：一个女孩，单人，全身，站立，黑色皮革连体衣，斜襟拉链，金色绑带，臂环，髋部扣带，扣带细节，长手套，厚底靴，黑金配色，亮面皮革，时尚摄影，灰色背景
 
+## Mio’s Cloth Designs Vol. 16
+*皮革 · 机车骑装 · 2026-11-22 · [原帖](https://x.com/Mio_2am/status/2124335045972562046)*
+
+### C-16-01 · Look 01
+黑色皮夹克配红色滚边，前襟拉链到腰，黑色皮裤两侧压红条纹，腰带、半指手套与长靴。
+
+```
+1girl, solo, full body, standing, black leather jacket, red piping, front zipper, black leather pants, red side stripes, belt, fingerless gloves, tall boots, rider outfit, black and red palette, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色皮夹克，红色滚边，前开拉链，黑色皮裤，红色侧条纹，腰带，露指手套，长靴，机车骑装，黑红配色，时尚摄影，灰色背景
+
+### C-16-02 · Look 02
+黑色短款皮夹克，袖子有红白条纹，内搭黑色抹胸与皮短裤，大腿绑带、过膝靴与半指手套。
+
+```
+1girl, solo, full body, standing, black cropped leather jacket, red and white stripes, black bralette, black leather shorts, thigh garter, over-the-knee boots, fingerless gloves, rider outfit, black and red palette, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色短款皮夹克，红白条纹，黑色抹胸，黑色皮短裤，大腿吊袜带，过膝靴，露指手套，机车骑装，黑红配色，时尚摄影，灰色背景
+
+### C-16-03 · Look 03
+黑色皮夹克立领、金色滚边，前襟拉链，同色皮裤沿腿侧压金线，配长靴，黑金主色。
+
+```
+1girl, solo, full body, standing, black leather jacket, gold piping, high collar, front zipper, black leather pants, gold side stripes, tall boots, rider outfit, black and gold palette, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色皮夹克，金色滚边，高领，前开拉链，黑色皮裤，金色侧条纹，长靴，机车骑装，黑金配色，时尚摄影，灰色背景
+
+### C-16-04 · Look 04
+黑色皮夹克袖上红白条纹，身侧拼白色侧片，黑色皮裤配腰带，半指手套与长靴。
+
+```
+1girl, solo, full body, standing, black leather jacket, red and white stripes, white side panels, black leather pants, belt, fingerless gloves, tall boots, rider outfit, buckles, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色皮夹克，红白条纹，白色侧片，黑色皮裤，腰带，露指手套，长靴，机车骑装，扣环，时尚摄影，灰色背景
+
+### C-16-05 · Look 05
+黑色皮革挂脖抹胸配腰带，同色皮裤侧缝做交叉系带，半指手套与长靴，露出腰腹。
+
+```
+1girl, solo, full body, standing, black leather bustier top, halter neck, belt, black leather pants, lace-up sides, front zipper, fingerless gloves, tall boots, rider outfit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色皮革抹胸，挂脖领口，腰带，黑色皮裤，侧边系带，前开拉链，露指手套，长靴，机车骑装，时尚摄影，灰色背景
+
+### C-16-06 · Look 06
+黑色短款皮夹克肩部拼红块，内搭黑色抹胸与皮短裤，大腿绑带、过膝靴与半指手套。
+
+```
+1girl, solo, full body, standing, black cropped leather jacket, red shoulder patches, black bralette, black leather shorts, thigh strap, over-the-knee boots, fingerless gloves, rider outfit, belt, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色短款皮夹克，红色肩块，黑色抹胸，黑色皮短裤，大腿绑带，过膝靴，露指手套，机车骑装，腰带，时尚摄影，灰色背景
+
+### C-16-07 · Look 07
+酒红皮夹克拼黑色侧片，黑色皮裤压红条纹，腰带收腰，半指手套与长靴，酒红配黑。
+
+```
+1girl, solo, full body, standing, oxblood leather jacket, black panels, black leather pants, red side stripes, belt, fingerless gloves, tall boots, rider outfit, dark red palette, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，酒红皮夹克，黑色拼片，黑色皮裤，红色侧条纹，腰带，露指手套，长靴，机车骑装，深红配色，时尚摄影，灰色背景
+
+### C-16-08 · Look 08
+黑色短款皮夹克袖子印红色纹样，内搭黑色抹胸，皮裤带扣环与护膝，配长靴。
+
+```
+1girl, solo, full body, standing, black cropped leather jacket, red sleeve print, black bralette, black leather pants, buckles, knee pads, tall boots, rider outfit, belt, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色短款皮夹克，红色袖纹，黑色抹胸，黑色皮裤，扣环，护膝，长靴，机车骑装，腰带，时尚摄影，灰色背景
+
+### C-16-09 · Look 09
+黑色皮革连身短裙两侧拼红色侧片，露肩无袖，大腿绑带、过膝靴与半指手套。
+
+```
+1girl, solo, full body, standing, black leather dress, red side panels, sleeveless, fingerless gloves, thigh strap, over-the-knee boots, rider outfit, black and red palette, high heels, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，黑色皮革连身裙，红色侧片，无袖，露指手套，大腿绑带，过膝靴，机车骑装，黑红配色，高跟鞋，时尚摄影，灰色背景
+
 ## Mio’s Pose Designs Vol. 01
 *瑜伽 · 九种体式 · 2026-10-14 · [原帖](https://x.com/Mio_2am/status/2110142775278924257)*
 
@@ -4350,6 +4434,90 @@
 ```
 
 **中文对照**：一个女孩，单人，全身，坐地，双腿分开，双膝弯曲，双脚着地，双手在身后撑地，后仰，髋部下沉，上身直立，正面视角，看向镜头，赤脚，纯色背景
+
+## Mio’s Pose Designs Vol. 31
+*摩托 · 车身姿势 · 2026-11-22 · [原帖](https://x.com/Mio_2am/status/2124318555772772852)*
+
+### P-31-01 · Launch
+跨坐摩托、上身前倾，双手握住车把，一只脚撑地，侧向正对镜头，视线朝前。
+
+```
+1girl, solo, full body, motorcycle, sitting on motorcycle, leaning forward, hands on handlebars, one foot on ground, sport bike, riding, side view, looking ahead, calm, high heels, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，摩托，坐在摩托上，前倾，双手握车把，单脚撑地，跑车摩托，骑行，侧视角，目视前方，平静，高跟鞋，纯色背景
+
+### P-31-02 · Sway
+站在车旁，一手扶在车身上、另一臂抬到脑后，髋部向一侧顶出，穿高跟鞋侧身而立。
+
+```
+1girl, solo, full body, motorcycle, standing beside motorcycle, one hand on the bike, other arm behind head, hip sway, weight on one leg, full length, relaxed, high heels, side view, looking at viewer, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，摩托，站在摩托旁，一手扶车，另一臂在脑后，髋部摆动，重心落在单腿，全身构图，放松，高跟鞋，侧视角，看向镜头，纯色背景
+
+### P-31-03 · Lookback
+背向镜头坐在车座上，上身前倾握住车把，回头越过肩膀看向侧后方，双腿分开。
+
+```
+1girl, solo, full body, motorcycle, from behind, back view, sitting on motorcycle, looking back over shoulder, head turned, hand on handlebars, leaning forward, legs apart, calm, high heels, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，摩托，背向，背面视角，坐在摩托上，回头望向肩后，头转向一侧，手握车把，前倾，双腿分开，平静，高跟鞋，纯色背景
+
+### P-31-04 · Crouch Ride
+整个人压低伏在油箱上，双手前伸握把，双膝弯折收在车身两侧，侧向贴车而行。
+
+```
+1girl, solo, full body, motorcycle, crouching on motorcycle, leaning forward, hugging the tank, hands on handlebars, knees bent, low pose, side view, looking down, calm, high heels, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，摩托，蹲伏在摩托上，前倾，贴着油箱，双手握车把，双膝弯曲，低姿，侧视角，垂眼向下，平静，高跟鞋，纯色背景
+
+### P-31-05 · Arch
+坐在车尾座上、腰背反弓、胸口上提，一手撑在车尾，双腿交叠，侧身看向一旁。
+
+```
+1girl, solo, full body, motorcycle, sitting on rear seat, back arched, chest lifted, one hand on tail, legs crossed, hips raised, high heels, side view, shoulders back, looking away, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，摩托，坐在车尾座，背部反弓，胸口上提，一手撑车尾，双腿交叉，髋部抬起，高跟鞋，侧视角，双肩后展，望向别处，纯色背景
+
+### P-31-06 · Turn
+压车过弯，身体重心压向弯内、一膝几乎贴地，双手稳握车把，上身随车倾倒。
+
+```
+1girl, solo, full body, motorcycle, leaning into a turn, knee low, one knee near ground, hands on handlebars, torso twisted, low center of gravity, side view, calm, knees bent, high heels, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，摩托，压弯，膝盖压低，一膝近地，双手握车把，上身拧转，重心压低，侧视角，平静，双膝弯曲，高跟鞋，纯色背景
+
+### P-31-07 · Power Stand
+站在车旁双手叉腰、双腿分开，上身挺直正对镜头，气势十足，穿高跟鞋。
+
+```
+1girl, solo, full body, motorcycle, standing beside motorcycle, hands on hips, legs apart, torso upright, front view, looking at viewer, confident, full length, calm, high heels, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，摩托，站在摩托旁，双手叉腰，双腿分开，上身直立，正面视角，看向镜头，自信，全身构图，平静，高跟鞋，纯色背景
+
+### P-31-08 · Leg Lift
+坐在车上，一腿笔直向上高高抬起，一手撑在油箱上，侧身保持平衡，视线看向镜头。
+
+```
+1girl, solo, full body, motorcycle, sitting on motorcycle, one leg raised high, leg extended up, one hand on tank, flexible, side view, looking at viewer, full length, calm, high heels, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，摩托，坐在摩托上，单腿高抬，一腿向上伸展，一手撑油箱，柔韧，侧视角，看向镜头，全身构图，平静，高跟鞋，纯色背景
+
+### P-31-09 · Longline
+整个人伏在车身上伸展，双臂前伸握把，双腿向后伸直，身体拉成一条长线。
+
+```
+1girl, solo, full body, motorcycle, lying on motorcycle, stretched along the tank, hands on handlebars, legs extended back, legs extended, prone, side view, looking ahead, calm, high heels, plain background
+```
+
+**中文对照**：一个女孩，单人，全身，摩托，伏在摩托上，沿油箱伸展，双手握车把，双腿向后伸直，双腿伸展，面朝下，侧视角，目视前方，平静，高跟鞋，纯色背景
 
 ## 通用负向
 
