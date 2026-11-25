@@ -1,6 +1,6 @@
 # 霧島澪 · 设计档案索引
 
-> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 53 卷 / 484 件
+> 来源：[@Mio_2am](https://x.com/Mio_2am)　整理：2026-11-08　共 54 卷 / 493 件
 
 ## 编号规则
 
@@ -21,7 +21,7 @@
 | Vol.07 | 2026-11-16 | 盘发 · 九种扎法 | 1. Side-Swept High Bun · 2. FF Ruru-style Fantasy Updo · 3. Sleek Ballerina Bun · 4. Low Chignon · 5. French Twist · 6. Messy Top Knot · 7. Braided Crown Updo · 8. Side Chignon · 9. Bangs High Bun | [链接](https://x.com/Mio_2am/status/2122099324154724796) |
 | Vol.08 | 2026-11-18 | 长发 · 发箍与发饰 | 1. Classic Straight Long · 2. Layered Long · 3. See-Through Bangs Long · 4. Side-Swept Long · 5. Half-Up Long · 6. Low Tied Long · 7. Hime Long · 8. Twist Crown Long · 9. Wavy Long | [链接](https://x.com/Mio_2am/status/2122975190137405502) |
 
-## 服装 Cloth（16 卷 · 144 件）
+## 服装 Cloth（17 卷 · 153 件）
 
 | 卷 | 日期 | 主题 | 单件 | 原帖 |
 |---|---|---|---|---|
@@ -41,6 +41,7 @@
 | Vol.14 | 2026-11-20 | 秋冬 · 大衣与皮革 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2123639756122898551) |
 | Vol.15 | 2026-11-21 | 皮革 · 紧身衣九套 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2123971238657949767) |
 | Vol.16 | 2026-11-22 | 皮革 · 机车骑装 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2124335045972562046) |
+| Vol.17 | 2026-11-23 | 秋冬 · 短裤配长靴 | 1. Look 01 · 2. Look 02 · 3. Look 03 · 4. Look 04 · 5. Look 05 · 6. Look 06 · 7. Look 07 · 8. Look 08 · 9. Look 09 | [链接](https://x.com/Mio_2am/status/2124755204285645082) |
 
 ## 姿势 Pose（29 卷 · 268 件）
 
@@ -78,7 +79,7 @@
 
 ## 收录状态
 
-53 卷 / 484 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
+54 卷 / 493 件已全部收录，编号连续。早期未标 Vol. 的卷按发布顺序回溯编号。
 
 ## 版权
 

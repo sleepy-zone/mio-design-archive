@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22",
+ "generated": "2026-11-25",
  "source": "https://x.com/Mio_2am",
  "volumes": [
   {
@@ -2976,6 +2976,134 @@
    ],
    "count": 9,
    "note": "九套机车风格皮革骑装：短外套、紧身裤与短裤，红白条纹、金滚边与绑带细节。"
+  },
+  {
+   "slug": "cloth-17",
+   "series": "cloth",
+   "vol": 17,
+   "date": "2026-11-23",
+   "url": "https://x.com/Mio_2am/status/2124755204285645082",
+   "theme_zh": "秋冬 · 短裤配长靴",
+   "theme_en": "Autumn shorts and boots",
+   "tags": [
+    "秋冬",
+    "短裤",
+    "长靴"
+   ],
+   "title": "Mio’s Cloth Designs Vol. 17",
+   "sheet": "assets/sheets/cloth-17.jpg",
+   "items": [
+    {
+     "no": 1,
+     "id": "C-17-01",
+     "name": "Look 01",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-17-01.jpg",
+     "zh": "驼色长款大衣敞开，内搭酒红高领毛衣与深色牛仔短裤，透黑丝袜，棕色短靴，深棕手袋与吊坠。",
+     "prompt": "1girl, solo, full body, standing, camel long coat, open coat, burgundy turtleneck, dark denim shorts, sheer black tights, brown leather ankle boots, dark brown handbag, pendant necklace, long sleeves, autumn outfit, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，驼色长款大衣，敞开大衣，酒红高领毛衣，深色牛仔短裤，透黑丝袜，棕色皮短靴，深棕手袋，吊坠项链，长袖，秋装，时尚摄影，灰色背景"
+    },
+    {
+     "no": 2,
+     "id": "C-17-02",
+     "name": "Look 02",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-17-02.jpg",
+     "zh": "米白绞花毛衣配棕红格纹围巾，浅色牛仔短裤，棕色麂皮堆堆靴与同色托特包，假日休闲风。",
+     "prompt": "1girl, solo, full body, standing, cream cable-knit sweater, plaid scarf, light denim shorts, brown suede slouch boots, brown suede tote bag, casual outfit, high waist, knitwear, long sleeves, autumn outfit, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，米白绞花毛衣，格纹围巾，浅色牛仔短裤，棕色麂皮堆堆靴，棕色麂皮托特包，休闲造型，高腰，针织，长袖，秋装，时尚摄影，灰色背景"
+    },
+    {
+     "no": 3,
+     "id": "C-17-03",
+     "name": "Look 03",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-17-03.jpg",
+     "zh": "深棕皮夹克配黑色高领与黑色牛仔短裤，链带小包，黑色短靴，黑棕配色偏摇滚。",
+     "prompt": "1girl, solo, full body, standing, dark brown leather jacket, black turtleneck, black denim shorts, chain-strap bag, black ankle boots, belt, black and brown palette, long sleeves, autumn outfit, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，深棕皮夹克，黑色高领衫，黑色牛仔短裤，链带包，黑色短靴，腰带，黑棕配色，长袖，秋装，时尚摄影，灰色背景"
+    },
+    {
+     "no": 4,
+     "id": "C-17-04",
+     "name": "Look 04",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-17-04.jpg",
+     "zh": "米白蝴蝶结衬衫外搭棕格纹马甲，白色牛仔短裤，棕色及膝皮靴与米色手袋，学院风。",
+     "prompt": "1girl, solo, full body, standing, cream pussy-bow blouse, brown checked waistcoat, white denim shorts, brown leather knee boots, cream handbag, belt, preppy, layered outfit, long sleeves, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，米白蝴蝶结衬衫，棕格纹马甲，白色牛仔短裤，棕色及膝皮靴，奶油色手袋，腰带，学院风，叠穿造型，长袖，时尚摄影，灰色背景"
+    },
+    {
+     "no": 5,
+     "id": "C-17-05",
+     "name": "Look 05",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-17-05.jpg",
+     "zh": "棕色针织高领配灰色流苏披肩，灰色牛仔短裤与棕皮带，棕色麂皮靴与皮质大包。",
+     "prompt": "1girl, solo, full body, standing, brown knit turtleneck, grey fringed poncho, grey denim shorts, brown belt, brown suede boots, brown leather hobo bag, pendant necklace, layered outfit, autumn outfit, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，棕色针织高领，灰色流苏披肩，灰色牛仔短裤，棕色腰带，棕色麂皮靴，棕色皮质单肩大包，吊坠项链，叠穿造型，秋装，时尚摄影，灰色背景"
+    },
+    {
+     "no": 6,
+     "id": "C-17-06",
+     "name": "Look 06",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-17-06.jpg",
+     "zh": "橄榄绿工装衬衫束腰，系棕色丝质方巾，棕色灯芯绒短裤，棕色系带靴与深棕手袋。",
+     "prompt": "1girl, solo, full body, standing, olive green utility jacket, belted waist, silk scarf, brown corduroy shorts, brown lace-up boots, dark brown handbag, high waist, belt, long sleeves, autumn outfit, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，橄榄绿工装外套，腰带收腰，丝质方巾，棕色灯芯绒短裤，棕色系带靴，深棕手袋，高腰，腰带，长袖，秋装，时尚摄影，灰色背景"
+    },
+    {
+     "no": 7,
+     "id": "C-17-07",
+     "name": "Look 07",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-17-07.jpg",
+     "zh": "米白罗纹高领毛衣，酒红大围巾披在肩侧，黑色牛仔短裤配黑皮带，黑色高跟鞋与深棕小包。",
+     "prompt": "1girl, solo, full body, standing, cream ribbed turtleneck, burgundy scarf, black denim shorts, black belt, black pumps, dark brown handbag, pendant necklace, high heels, long sleeves, autumn outfit, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，米白罗纹高领毛衣，酒红围巾，黑色牛仔短裤，黑色皮带，黑色高跟鞋，深棕手袋，吊坠项链，高跟鞋，长袖，秋装，时尚摄影，灰色背景"
+    },
+    {
+     "no": 8,
+     "id": "C-17-08",
+     "name": "Look 08",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-17-08.jpg",
+     "zh": "棕色毛绒开衫敞开，内搭棕色高领与浅色牛仔短裤，棕皮带、棕色短靴与多层项链。",
+     "prompt": "1girl, solo, full body, standing, brown fuzzy cardigan, open coat, brown turtleneck, light denim shorts, brown belt, brown boots, layered necklaces, brown handbag, long sleeves, autumn outfit, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，棕色毛绒开衫，敞开大衣，棕色高领毛衣，浅色牛仔短裤，棕色腰带，棕色短靴，叠戴项链，棕色手袋，长袖，秋装，时尚摄影，灰色背景"
+    },
+    {
+     "no": 9,
+     "id": "C-17-09",
+     "name": "Look 09",
+     "tags": [
+      "回望"
+     ],
+     "tile": "assets/tiles/cloth-17-09.jpg",
+     "zh": "棕格纹大衣敞开，酒红荷叶边衬衫配黑色牛仔短裤，透黑丝袜，棕色高跟鞋与小包。",
+     "prompt": "1girl, solo, full body, standing, brown houndstooth coat, open coat, burgundy ruffled blouse, black denim shorts, sheer black tights, brown heels, brown handbag, long sleeves, autumn outfit, fashion photo, grey background",
+     "prompt_zh": "一个女孩，单人，全身，站立，棕色千鸟格大衣，敞开大衣，酒红荷叶边衬衫，黑色牛仔短裤，透黑丝袜，棕色高跟鞋，棕色手袋，长袖，秋装，时尚摄影，灰色背景"
+    }
+   ],
+   "count": 9,
+   "note": "九套秋冬造型：牛仔短裤配长靴或短靴，叠穿毛衣、大衣、披肩与皮带，棕调为主。"
   },
   {
    "slug": "pose-01",

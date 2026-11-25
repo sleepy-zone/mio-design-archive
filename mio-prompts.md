@@ -2020,6 +2020,90 @@
 
 **中文对照**：一个女孩，单人，全身，站立，黑色皮革连身裙，红色侧片，无袖，露指手套，大腿绑带，过膝靴，机车骑装，黑红配色，高跟鞋，时尚摄影，灰色背景
 
+## Mio’s Cloth Designs Vol. 17
+*秋冬 · 短裤配长靴 · 2026-11-23 · [原帖](https://x.com/Mio_2am/status/2124755204285645082)*
+
+### C-17-01 · Look 01
+驼色长款大衣敞开，内搭酒红高领毛衣与深色牛仔短裤，透黑丝袜，棕色短靴，深棕手袋与吊坠。
+
+```
+1girl, solo, full body, standing, camel long coat, open coat, burgundy turtleneck, dark denim shorts, sheer black tights, brown leather ankle boots, dark brown handbag, pendant necklace, long sleeves, autumn outfit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，驼色长款大衣，敞开大衣，酒红高领毛衣，深色牛仔短裤，透黑丝袜，棕色皮短靴，深棕手袋，吊坠项链，长袖，秋装，时尚摄影，灰色背景
+
+### C-17-02 · Look 02
+米白绞花毛衣配棕红格纹围巾，浅色牛仔短裤，棕色麂皮堆堆靴与同色托特包，假日休闲风。
+
+```
+1girl, solo, full body, standing, cream cable-knit sweater, plaid scarf, light denim shorts, brown suede slouch boots, brown suede tote bag, casual outfit, high waist, knitwear, long sleeves, autumn outfit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，米白绞花毛衣，格纹围巾，浅色牛仔短裤，棕色麂皮堆堆靴，棕色麂皮托特包，休闲造型，高腰，针织，长袖，秋装，时尚摄影，灰色背景
+
+### C-17-03 · Look 03
+深棕皮夹克配黑色高领与黑色牛仔短裤，链带小包，黑色短靴，黑棕配色偏摇滚。
+
+```
+1girl, solo, full body, standing, dark brown leather jacket, black turtleneck, black denim shorts, chain-strap bag, black ankle boots, belt, black and brown palette, long sleeves, autumn outfit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，深棕皮夹克，黑色高领衫，黑色牛仔短裤，链带包，黑色短靴，腰带，黑棕配色，长袖，秋装，时尚摄影，灰色背景
+
+### C-17-04 · Look 04
+米白蝴蝶结衬衫外搭棕格纹马甲，白色牛仔短裤，棕色及膝皮靴与米色手袋，学院风。
+
+```
+1girl, solo, full body, standing, cream pussy-bow blouse, brown checked waistcoat, white denim shorts, brown leather knee boots, cream handbag, belt, preppy, layered outfit, long sleeves, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，米白蝴蝶结衬衫，棕格纹马甲，白色牛仔短裤，棕色及膝皮靴，奶油色手袋，腰带，学院风，叠穿造型，长袖，时尚摄影，灰色背景
+
+### C-17-05 · Look 05
+棕色针织高领配灰色流苏披肩，灰色牛仔短裤与棕皮带，棕色麂皮靴与皮质大包。
+
+```
+1girl, solo, full body, standing, brown knit turtleneck, grey fringed poncho, grey denim shorts, brown belt, brown suede boots, brown leather hobo bag, pendant necklace, layered outfit, autumn outfit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，棕色针织高领，灰色流苏披肩，灰色牛仔短裤，棕色腰带，棕色麂皮靴，棕色皮质单肩大包，吊坠项链，叠穿造型，秋装，时尚摄影，灰色背景
+
+### C-17-06 · Look 06
+橄榄绿工装衬衫束腰，系棕色丝质方巾，棕色灯芯绒短裤，棕色系带靴与深棕手袋。
+
+```
+1girl, solo, full body, standing, olive green utility jacket, belted waist, silk scarf, brown corduroy shorts, brown lace-up boots, dark brown handbag, high waist, belt, long sleeves, autumn outfit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，橄榄绿工装外套，腰带收腰，丝质方巾，棕色灯芯绒短裤，棕色系带靴，深棕手袋，高腰，腰带，长袖，秋装，时尚摄影，灰色背景
+
+### C-17-07 · Look 07
+米白罗纹高领毛衣，酒红大围巾披在肩侧，黑色牛仔短裤配黑皮带，黑色高跟鞋与深棕小包。
+
+```
+1girl, solo, full body, standing, cream ribbed turtleneck, burgundy scarf, black denim shorts, black belt, black pumps, dark brown handbag, pendant necklace, high heels, long sleeves, autumn outfit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，米白罗纹高领毛衣，酒红围巾，黑色牛仔短裤，黑色皮带，黑色高跟鞋，深棕手袋，吊坠项链，高跟鞋，长袖，秋装，时尚摄影，灰色背景
+
+### C-17-08 · Look 08
+棕色毛绒开衫敞开，内搭棕色高领与浅色牛仔短裤，棕皮带、棕色短靴与多层项链。
+
+```
+1girl, solo, full body, standing, brown fuzzy cardigan, open coat, brown turtleneck, light denim shorts, brown belt, brown boots, layered necklaces, brown handbag, long sleeves, autumn outfit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，棕色毛绒开衫，敞开大衣，棕色高领毛衣，浅色牛仔短裤，棕色腰带，棕色短靴，叠戴项链，棕色手袋，长袖，秋装，时尚摄影，灰色背景
+
+### C-17-09 · Look 09
+棕格纹大衣敞开，酒红荷叶边衬衫配黑色牛仔短裤，透黑丝袜，棕色高跟鞋与小包。
+
+```
+1girl, solo, full body, standing, brown houndstooth coat, open coat, burgundy ruffled blouse, black denim shorts, sheer black tights, brown heels, brown handbag, long sleeves, autumn outfit, fashion photo, grey background
+```
+
+**中文对照**：一个女孩，单人，全身，站立，棕色千鸟格大衣，敞开大衣，酒红荷叶边衬衫，黑色牛仔短裤，透黑丝袜，棕色高跟鞋，棕色手袋，长袖，秋装，时尚摄影，灰色背景
+
 ## Mio’s Pose Designs Vol. 01
 *瑜伽 · 九种体式 · 2026-10-14 · [原帖](https://x.com/Mio_2am/status/2110142775278924257)*
 
