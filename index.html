@@ -157,6 +157,17 @@ main{max-width:1460px;margin:0 auto;padding:38px 40px 80px}
   .modal h2{font-size:26px}
   .modal .content{padding:26px 22px 40px}
 }
+
+/* mini game promo */
+.game-wrap{max-width:1240px;margin:34px auto 56px;padding:0 40px}
+.game-promo{display:flex;align-items:center;gap:22px;padding:18px 20px;background:var(--white);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:12px}
+.game-qr{width:104px;height:104px;flex:none;object-fit:contain;background:#fff;border:1px solid var(--line);border-radius:10px}
+.game-copy{min-width:0}
+.game-kicker{margin:0 0 5px;font-family:"Helvetica Neue",Arial,sans-serif;font-size:9.5px;letter-spacing:.12em;color:var(--accent);font-weight:600}
+.game-title{margin:0 0 6px;font-size:20px;line-height:1.2;color:var(--ink);font-family:inherit}
+.game-desc{margin:0;font-size:12.5px;line-height:1.7;color:var(--muted)}
+.game-hint{margin:8px 0 0;font-size:11.5px;color:var(--muted)}
+@media(max-width:700px){.game-wrap{margin:26px auto 40px;padding:0 20px}.game-promo{flex-direction:column;align-items:flex-start;gap:12px;padding:14px}.game-qr{width:82px;height:82px}.game-title{font-size:18px}}
 </style>
 </head>
 <body>
@@ -204,6 +215,18 @@ main{max-width:1460px;margin:0 auto;padding:38px 40px 80px}
   <section id="flat" style="display:none"></section>
 </main>
 
+
+<section class="game-wrap" aria-labelledby="game-title">
+  <section class="game-promo">
+    <img class="game-qr" src="assets/game-qr.png?v=1" alt="无限堆叠 微信小游戏二维码" width="600" height="600" loading="eager" decoding="async">
+    <div class="game-copy">
+      <p class="game-kicker">PLAY · 微信小游戏</p>
+      <h2 class="game-title" id="game-title">无限堆叠</h2>
+      <p class="game-desc">一指操作的堆叠小游戏。看准移动方块的位置点击落下，重叠部分保留，偏差会被削掉。看谁叠的高！</p>
+      <p class="game-hint">微信扫码 / 搜一搜「无限堆叠」</p>
+    </div>
+  </section>
+</section>
 <div class="overlay" id="overlay"></div>
 <div class="modal" id="modal" role="dialog" aria-modal="true"></div>
 <div class="itemview" id="itemview"></div>
