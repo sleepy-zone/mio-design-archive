@@ -187,8 +187,8 @@ main{max-width:1460px;margin:0 auto;padding:38px 40px 80px}
       <button class="dl-btn" id="dlBtn" aria-expanded="false" aria-controls="dlMenu"><span class="dot" aria-hidden="true"></span>网盘整库下载 <span class="caret">↓</span></button>
       <div class="dl-menu" id="dlMenu" role="dialog" aria-label="整库下载">
         <div class="dl-hd">整库打包 · 508 张图</div>
-        <a href="https://drive.uc.cn/s/dba33a562ce24" target="_blank" rel="noopener"><span>UC 网盘</span><em>无需提取码</em></a>
-        <a href="https://pan.xunlei.com/s/VP7NOGfN8ny-fOep32dqoRXgA1?pwd=9pd5" target="_blank" rel="noopener"><span>迅雷网盘</span><em>提取码 9pd5</em></a>
+        <a href="https://drive.uc.cn/s/dba33a562ce24" target="_blank" rel="noopener" data-pan="uc"><span>UC 网盘</span><em>无需提取码</em></a>
+        <a href="https://pan.xunlei.com/s/VP7NOGfN8ny-fOep32dqoRXgA1?pwd=9pd5" target="_blank" rel="noopener" data-pan="xunlei"><span>迅雷网盘</span><em>提取码 9pd5</em></a>
         <p class="dl-note">50 张九宫格 + 457 张单件图 + 总览与清单</p>
       </div>
     </div>
@@ -356,8 +356,10 @@ document.addEventListener('keydown',e=>{ if(e.key==='Escape') closeDl(); });
 
 // 网盘点击埋点：入口只在卷详情弹窗里（按提供方分别记，和日报的 pan_* 事件对齐）
 document.addEventListener('click', e => {
-  const a = e.target.closest && e.target.closest('.mdownload a[data-pan]');
-  if (a) trackEvent('pan_' + a.dataset.pan, { label: 'volume_modal' });
+  const a = e.target.closest && e.target.closest('a[data-pan]');
+  if (!a) return;
+  const where = a.closest('#dlMenu') ? 'top_menu' : (a.closest('.mdownload') ? 'volume_modal' : 'other');
+  trackEvent('pan_' + a.dataset.pan, { label: where });
 }, true);
 
 const NEG = 'lowres, worst quality, low quality, bad anatomy, bad hands, extra fingers, missing fingers, text, watermark, signature, jpeg artifacts, multiple views';
