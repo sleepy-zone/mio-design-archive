@@ -168,6 +168,33 @@ main{max-width:1460px;margin:0 auto;padding:38px 40px 80px}
 .game-desc{margin:0;font-size:12.5px;line-height:1.7;color:var(--muted)}
 .game-hint{margin:8px 0 0;font-size:11.5px;color:var(--muted)}
 @media(max-width:700px){.game-wrap{margin:26px auto 40px;padding:0 20px}.game-promo{flex-direction:column;align-items:flex-start;gap:12px;padding:14px}.game-qr{width:82px;height:82px}.game-title{font-size:18px}}
+
+/* 每卷的网盘入口 */
+.pan-cta{
+  border:1px solid var(--line);background:var(--white);color:var(--ink);
+  font:inherit;font-size:9.5px;letter-spacing:.12em;text-transform:uppercase;
+  padding:3px 7px;border-radius:3px;cursor:pointer;line-height:1.4;
+}
+.pan-cta:hover{border-color:var(--ink)}
+.pan-pop{
+  position:fixed;z-index:120;min-width:190px;background:var(--white);
+  border:1px solid var(--line);border-radius:6px;padding:6px;
+  box-shadow:0 8px 24px rgba(27,26,23,.14);display:flex;flex-direction:column;gap:2px;
+}
+.pan-pop[hidden]{display:none}
+.pan-pop a{
+  display:flex;justify-content:space-between;gap:12px;text-decoration:none;color:var(--ink);
+  font-size:12px;padding:7px 9px;border-radius:4px;
+}
+.pan-pop a:hover{background:var(--paper-2)}
+.pan-pop em{font-style:normal;color:var(--muted);font-size:10.5px}
+.mdownload{display:flex;align-items:center;gap:8px;margin:12px 0 4px;flex-wrap:wrap}
+.mdownload span{font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.mdownload a{
+  text-decoration:none;color:var(--ink);border:1px solid var(--line);border-radius:4px;
+  padding:5px 10px;font-size:12px;background:var(--white);
+}
+.mdownload a:hover{border-color:var(--ink)}
 </style>
 </head>
 <body>
@@ -236,6 +263,11 @@ main{max-width:1460px;margin:0 auto;padding:38px 40px 80px}
 <script src="assets/analytics.js?v=1"></script>
 <script src="data.js"></script>
 <script src="tagdict.js"></script>
+<div class="pan-pop" id="panPop" hidden>
+  <a data-pan="uc" href="https://drive.uc.cn/s/dba33a562ce24" target="_blank" rel="noopener">UC 网盘 <em>无需提取码</em></a>
+  <a data-pan="xunlei" href="https://pan.xunlei.com/s/VP7NOGfN8ny-fOep32dqoRXgA1?pwd=9pd5" target="_blank" rel="noopener">迅雷网盘 <em>提取码 9pd5</em></a>
+</div>
+
 <script>
 const LIB = window.MIO_LIB;
 const SERIES = {pose:'姿势',cloth:'服装',hair:'发型'};
@@ -279,9 +311,11 @@ function renderVolumes(vols){
         <h3>${v.title.replace('Mio’s','')}</h3>
         <div class="en">${v.theme_en} · ${v.theme_zh}</div>
         <p class="note">${v.note||''}</p>
-        <div class="foot"><span>${v.date}</span><span>查看 ${v.count} 件 →</span></div>
+        <div class="foot"><span>${v.date}</span><button class="pan-cta" type="button" data-pan-cta>⬇ 网盘</button><span>查看 ${v.count} 件 →</span></div>
       </div>`;
     const open=()=>openModal(v);
+    const cta=c.querySelector('[data-pan-cta]');
+    if(cta) cta.onclick=e=>{ e.stopPropagation(); const r=cta.getBoundingClientRect(); openPanPop(r.left, r.bottom+6); };
     c.onclick=open;
     c.onkeydown=e=>{ if(e.key==='Enter'||e.key===' '){e.preventDefault();open();} };
     wrap.appendChild(c);
@@ -316,6 +350,7 @@ function openModal(v){
       <div class="men">${v.theme_en} · ${v.theme_zh}</div>
       <div class="mnote">${v.note||''}</div>
       <div class="mmeta"><span>${v.date}</span><span>${v.count} 件</span><a href="${v.url}" target="_blank" rel="noopener">在 X 查看原帖 ↗</a></div>
+      <div class="mdownload"><span>整库网盘</span><a data-pan="uc" href="https://drive.uc.cn/s/dba33a562ce24" target="_blank" rel="noopener">UC ↓</a><a data-pan="xunlei" href="https://pan.xunlei.com/s/VP7NOGfN8ny-fOep32dqoRXgA1?pwd=9pd5" target="_blank" rel="noopener">迅雷 ↓</a></div>
       <div class="mgrid"></div>
     </div>`;
   const grid=$('.mgrid',m);
@@ -342,6 +377,25 @@ function closeDl(){ dl.classList.remove('open'); dlBtn.setAttribute('aria-expand
 dlBtn.onclick=e=>{ e.stopPropagation(); const open=dl.classList.toggle('open'); dlBtn.setAttribute('aria-expanded', open?'true':'false'); };
 document.addEventListener('click',e=>{ if(!dl.contains(e.target)) closeDl(); });
 document.addEventListener('keydown',e=>{ if(e.key==='Escape') closeDl(); });
+
+// 每卷的网盘入口（整库打包，按提供方分别埋点，和日报的 pan_* 事件对齐）
+const panPop = $('#panPop');
+function openPanPop(x, y){
+  panPop.hidden = false;
+  panPop.style.left = Math.min(x, window.innerWidth - 210) + 'px';
+  panPop.style.top = Math.min(y, window.innerHeight - 110) + 'px';
+  trackEvent('download_open', { label: 'volume_cta' });
+}
+document.addEventListener('click', e => {
+  if (!panPop.hidden && !panPop.contains(e.target)) panPop.hidden = true;
+});
+panPop.querySelectorAll('a[data-pan]').forEach(a => {
+  a.addEventListener('click', () => trackEvent('pan_' + a.dataset.pan, { label: 'volume' }));
+});
+document.addEventListener('click', e => {
+  const a = e.target.closest && e.target.closest('.mdownload a[data-pan]');
+  if (a) trackEvent('pan_' + a.dataset.pan, { label: 'volume_modal' });
+}, true);
 
 const NEG = 'lowres, worst quality, low quality, bad anatomy, bad hands, extra fingers, missing fingers, text, watermark, signature, jpeg artifacts, multiple views';
 const PREFIX = 'masterpiece, best quality, very aesthetic, absurdres';
@@ -428,5 +482,6 @@ $('#viewswitch').onclick=()=>{ state.mode = state.mode==='volumes'?'flat':'volum
 
 render();
 </script>
+
 </body>
 </html>
